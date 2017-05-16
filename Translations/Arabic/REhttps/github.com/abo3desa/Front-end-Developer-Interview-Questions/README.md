@@ -43,13 +43,13 @@
  <ul><li>ماهي الاستثناءت؟</li></ul>
 <li>سم ثلاث طرق لتخفيض تحميل الصفحة؟</li>
 <li>لو دخلت الى مشروع و هم يستخدمون tabs وانت تستخدم spaecs, فماذا ستفعل؟</li>
-<li>اشرح كيف ستصنع صفحة عرض شرائح.</li>
+<li>اشرح كيف تنشئ صفحة عرض شرائح.</li>
 <li>لو كنت ستحترف تقنية واحده هذه السنه ماذا ستكون؟</li>
-<li>ماهو Flash of Unstyled Content ؟ وكيف تتفاداه</li>
-<li>اشرح ما هو ARIA  و screenreaders, وكيف تصنع موقع accessible؟</li>
-<li></li>
-<li></li>
-<li></li>
+<li>اشرح اهمية standards و standards bodies.</li>
+<li>ماهو Flash of Unstyled Content ؟وكيف تتفاداه</li>
+<li>اشرح ما هو ARIA  و screenreaders, وكيف تنشئ موقع accessible؟</li>
+<li>اشرح الإجابيات و السلبيات CSS animations مقابل JavaScript  animations.</li>
+<li>ماذا CORS يرمز الى ,و ماهي المشكلة التي يعالجها؟</li>
 </ul>
 </article>
 </div> 
