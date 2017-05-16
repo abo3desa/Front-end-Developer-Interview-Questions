@@ -63,7 +63,7 @@
 <li>اعتبر HTML5  منصة مفتوحة على شبكة الإنترنت ماهي اسس بناء HTML5?</li>
 <li>اشرح الفرق بين <code>cookie</code>, <code>sessionStorage</code> و <code>localStorage</code>.</li>
 <li>اشرح الفرق بين <code>&lt;script&gt;</code>, <code>&lt;script async&gt;</code> و <code>&lt;script defer&gt;</code>.</li>
-<li>لمذا من الأفضل وضع CSS<code>&lt;link&gt;</code> بين <code>&lt;head&gt;&lt;/head&gt;</code> و JS <code>&lt;script&gt;</code> قبل <code>&lt;/body&gt;</code></li>
+<li>لمذا من الأفضل وضع CSS<code>&lt;link&gt;</code> بين <code>&lt;head&gt;&lt;/head&gt;</code> و JS <code>&lt;script&gt;</code> قبل <code>&lt;/body&gt;</code>؟</li>
 <li></li>
 <li></li>
 </ul>
