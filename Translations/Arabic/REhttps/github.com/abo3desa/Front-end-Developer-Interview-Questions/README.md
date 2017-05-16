@@ -38,8 +38,8 @@
 <li>هل تستطيع وصف روتين عملك عند إنشاء صفحة ويب؟</li>
 <li> لو كان لديك خمسة stylesheets مختلفة كيف لك دمجها في الموقع بأفضل طريقة؟</li>
 <li>هل تستطيع شرح الفرق بين progressive enhancement and graceful degradation؟</li>
-<li>كيف يمكنك تحسين assets/resources الموقع</li>
-<li></li>
+<li>كيف يمكنك تحسين assets/resources الموقع؟</li>
+<li>كم عدد المصادر التي يحملها الموقع من domain <li>ماهي الاستثناءت</li>في وقت واحد؟</li>
 <li></li>
 <li></li>
 <li></li>
