@@ -15,7 +15,7 @@
 </section>
 <h2>قائمة المحتوى</h2>
 <ol>
-<li><a href='#'>أسئلة عامه</a></li>
+<li><a href='GQ'>أسئلة عامه</a></li>
 <li><a href='#'>أسئلة HTML</a></li>
 <li><a href='#'>أسئلة CSS</a></li>
 <li><a href='#'>أسئلة JS</a></li>
@@ -29,7 +29,34 @@
 <ol>
 <li><a href='#'>المساهمين</a></li>
 <li><a href='#'>كيف تساهم</a></li>
-<li><a href='#'>رخصة</a></li>
+<li><a href='#'>الرخصة</a></li>
 </ol>
+<header>
+<h3>أسئلة عامه</h3>
+</header>
+<section id='GQ'>
+<ul>
+<li>ماذا تعلمت بالأمس/هذا الأسبوع</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</section>
 </article>
 </div> 
