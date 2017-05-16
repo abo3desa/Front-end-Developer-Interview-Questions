@@ -37,7 +37,7 @@
 <li>ماهو إصدار نظام التحكم المعتاد عليه؟</li>
 <li>هل تستطيع وصف روتين عملك عند إنشاء صفحة ويب؟</li>
 <li> لو كان لديك خمسة stylesheets مختلفة كيف لك دمجها في الموقع بأفضل طريقة؟</li>
-<li> ؟هل تستطيع شرح الفرق بينprogressive enhancement and graceful degradation؟</li>
+<li>هل تستطيع شرح الفرق بين progressive enhancement and graceful degradation؟</li>
 <li></li>
 <li></li>
 <li></li>
