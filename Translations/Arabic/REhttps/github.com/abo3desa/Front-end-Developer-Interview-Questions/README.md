@@ -24,8 +24,8 @@
 <h2>الدخول و المساهمه</h2>
 <ol>
 <li><a href='#'>المساهمين</a></li>
-<li><a href='#'>كيف تساهم</a></li>
-<li><a href='#'>الرخصة</a></li>
+<li><a href='https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/CONTRIBUTING.md'>كيف تساهم</a></li>
+<li><a href='https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/LICENSE.md'>الرخصة</a></li>
 </ol>
 <h3>أسئلة عامه</h3>
 <ul>
@@ -46,7 +46,7 @@
 <li>اشرح كيف ستصنع صفحة عرض شرائح.</li>
 <li>لو كنت ستحترف تقنية واحده هذه السنه ماذا ستكون؟</li>
 <li>ماهو Flash of Unstyled Content ؟ وكيف تتفاداه</li>
-<li>اشرح ما هو ARIA  و قارئ الشاشة, وكيف صنه موقع accessible؟</li>
+<li>اشرح ما هو ARIA  و screenreaders, وكيف تصنع موقع accessible؟</li>
 <li></li>
 <li></li>
 <li></li>
