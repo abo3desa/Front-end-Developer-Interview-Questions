@@ -27,7 +27,7 @@
 <li><a href='https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/CONTRIBUTING.md'>كيف تساهم</a></li>
 <li><a href='https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/LICENSE.md'>الرخصة</a></li>
 </ol>
-<h3>أسئلة عامه</h3>
+<h3>أسئلة عامه:</h3>
 <ul>
 <li>ماذا تعلمت بالأمس/هذا الأسبوع؟</li>
 <li>ماذا يهمك ويثير اهتمامك في البرمجه؟</li>
@@ -37,7 +37,7 @@
 <li>ماهو إصدار نظام التحكم المعتاد عليه؟</li>
 <li>هل تستطيع وصف روتين عملك عند إنشاء صفحة ويب؟</li>
 <li> لو كان لديك خمسة stylesheets مختلفة كيف لك دمجها في الموقع بأفضل طريقة؟</li>
-<li>هل تستطيع شرح الفرق بين progressive enhancement and graceful degradation؟</li>
+<li>هل تستطيع شرح الفرق بين progressive enhancement و graceful degradation؟</li>
 <li>كيف يمكنك تحسين assets/resources الموقع؟</li>
 <li>كم عدد المصادر التي يحملها الموقع من domain في وقت واحد؟</li>
  <ul><li>ماهي الاستثناءت؟</li></ul>
@@ -51,11 +51,11 @@
 <li>اشرح الإجابيات و السلبيات CSS animations مقابل JavaScript  animations.</li>
 <li>ماذا CORS يرمز الى ,و ماهي المشكلة التي يعالجها؟</li>
 </ul>
-<h3>أسئلة HTML</h3>
+<h3>أسئلة: HTML</h3>
 <ul>
-<li></li>
-<li></li>
-<li></li>
+<li>ماذا تفعل <code>doctype</code>؟</li>
+<li>ماهو الفرق بين  full standards mode, almost standards mode و quirks mode؟</li>
+<li>ماهو الفرق بين HTML و XHTML؟</li>
 <li></li>
 <li></li>
 <li></li>
