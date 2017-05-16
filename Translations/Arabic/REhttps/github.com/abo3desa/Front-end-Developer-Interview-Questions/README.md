@@ -9,14 +9,14 @@
 </p>
 <h2>قائمة المحتوى</h2>
 <ol>
-<li>اسألة عامه<li>
-<li><a href='#'>HTML اسألة</a><li>
-<li><li>
-<li><li>
-<li><li>
-<li><li>
-<li><li>
-<li><li>
-<li><li>
+<li><a href='#'>اسألة عامه</a></li>
+<li><a href='#'>HTML اسألة</a></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 </ol>
 </div> 
