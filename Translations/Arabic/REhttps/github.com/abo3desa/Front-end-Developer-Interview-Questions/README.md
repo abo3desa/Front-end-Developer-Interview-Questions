@@ -51,7 +51,7 @@
 <li>اشرح الإجابيات و السلبيات CSS animations مقابل JavaScript  animations.</li>
 <li>ماذا CORS يرمز الى ,و ماهي المشكلة التي يعالجها؟</li>
 </ul>
-<h3>أسئلة: HTML</h3>
+<h3>أسئلة HTML:</h3>
 <ul>
 <li>ماذا تفعل <code>doctype</code>؟</li>
 <li>ماهو الفرق بين  full standards mode, almost standards mode و quirks mode؟</li>
@@ -60,9 +60,9 @@
 <li>كيف تستضيف صفحه بمحتوى متعدد اللغات؟</li>
 <li>ماهي الاشياء التي يجب ان تحترس منها عند تصميم او تطور موقع متعدد اللغات؟</li>
 <li>ماهي فائدة <code>data-</code>؟</li>
-<li></li>
-<li></li>
-<li></li>
+<li>اعتبر HTML5  منصة مفتوحة على شبكة الإنترنت ماهي اسس بناء HTML5?</li>
+<li>اشرح الفرق بين <code>cookie</code>, <code>sessionStorage</code> و <code>localStorage</code>.</li>
+<li>اشرح الفرق بين <code>&lt;script&gt;</code>, <code>&lt;script async&gt;</code> and <code>&lt;script defer&gt;</code>..</li>
 <li></li>
 <li></li>
 <li></li>
