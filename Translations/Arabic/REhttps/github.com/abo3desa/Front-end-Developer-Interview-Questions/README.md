@@ -15,7 +15,7 @@
 </section>
 <h2>قائمة المحتوى</h2>
 <ol>
-<li><a href='GQ'>أسئلة عامه</a></li>
+<li>[أسئلة عامه](#general-questions)</li>
 <li><a href='#'>أسئلة HTML</a></li>
 <li><a href='#'>أسئلة CSS</a></li>
 <li><a href='#'>أسئلة JS</a></li>
