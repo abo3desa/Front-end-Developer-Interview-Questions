@@ -11,12 +11,12 @@
 <h2>قائمة المحتوى</h2>
 <ol>
 <li><a href='#'>أسئلة عامه</a></li>
-<li><a href='#'>HTML أسئلة</a></li>
-<li><a href='#'>CSS أسئلة</a></li>
-<li><a href='#'>JS أسئلة</a></li>
-<li><a href='#'>Testing أسئلةاختبار البرمجيات</a></li>
-<li><a href='#'>Performance أسئلةاداء البرمجيات</a></li>
-<li><a href='#'>Network أسئلة شبكات</a></li>
+<li><a href='#'>أسئلة HTML</a></li>
+<li><a href='#'>أسئلة CSS</a></li>
+<li><a href='#'>أسئلة JS</a></li>
+<li><a href='#'>أسئلةاختبار البرمجيات Testing</a></li>
+<li><a href='#'>أسئلةاداء البرمجيات Performance</a></li>
+<li><a href='#'>أسئلة شبكات Network</a></li>
 <li><a href='#'>أسئلة برمجة</a></li>
 <li><a href='#'>أسئلة مسلية</a></li>
 </ol>
