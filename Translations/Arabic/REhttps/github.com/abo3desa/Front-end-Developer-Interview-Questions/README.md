@@ -56,10 +56,10 @@
 <li>ماذا تفعل <code>doctype</code>؟</li>
 <li>ماهو الفرق بين  full standards mode, almost standards mode و quirks mode؟</li>
 <li>ماهو الفرق بين HTML و XHTML؟</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>هل هناك مشكلة في استضافة صفحات<code>application/xhtml+xml</code>؟</li>
+<li>كيف تستضيف صفحه بمحتوى متعدد اللغات؟</li>
+<li>ماهي الاشياء التي يجب ان تحترس منها عند تصميم او تطور موقع متعدد اللغات؟</li>
+<li>ماهي فائدة <code>data-</code>؟</li>
 <li></li>
 <li></li>
 <li></li>
