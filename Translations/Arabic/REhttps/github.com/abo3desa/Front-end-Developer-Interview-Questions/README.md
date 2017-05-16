@@ -40,13 +40,13 @@
 <li>هل تستطيع شرح الفرق بين progressive enhancement and graceful degradation؟</li>
 <li>كيف يمكنك تحسين assets/resources الموقع؟</li>
 <li>كم عدد المصادر التي يحملها الموقع من domain في وقت واحد؟</li>
- <ul><li>ماهي الاستثناءت</li></ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+ <ul><li>ماهي الاستثناءت؟</li></ul>
+<li>سم ثلاث طرق لتخفيض تحميل الصفحة؟</li>
+<li>لو دخلت الى مشروع و هم يستخدمون tabs وانت تستخدم spaecs, فماذا ستفعل؟</li>
+<li>اشرح كيف ستصنع صفحة عرض شرائح.</li>
+<li>لو كنت ستحترف تقنية واحده هذه السنه ماذا ستكون؟</li>
+<li>ماهو Flash of Unstyled Content ؟ وكيف تتفاداه</li>
+<li>اشرح ما هو ARIA  و قارئ الشاشة, وكيف صنه موقع accessible؟</li>
 <li></li>
 <li></li>
 <li></li>
