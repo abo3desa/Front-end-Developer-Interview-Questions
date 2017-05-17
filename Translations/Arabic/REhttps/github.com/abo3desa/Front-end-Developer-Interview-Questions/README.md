@@ -123,7 +123,7 @@
 </ul>
 <h3>أسئلة شبكات Network:</h3>
 <ul>
-<li>في العادة لماذا من الأفضل ان ترفع site assets من domains ؟متعدده</li>
+<li>في العادة لماذا من الأفضل ان ترفع site assets من domains متعدده؟</li>
 <li>افعل ما بوسعك لشرح ما يحدث من بداية كتابك عنوان الموقع الى انتهاء تحميله على شاشتك.</li>
 <li>ما الفرق بين Long-Polling و Websockets  و Server-Sent Events؟</li>
 <li>اشرح request and response headers التاليه:</li>
@@ -135,7 +135,7 @@
 <li>ETag</li>
 <li>X-Frame-Options</li>
 </ul>
-<li>ما هي؟ HTTP methods عدد كل HTTP methods التي تعرفها، واشرحها.</li>
+<li>ما هي HTTP methods؟ و عدد كل HTTP methods التي تعرفها، واشرحها.</li>
 </ul>
 <h3>أسئلة برمجة:</h3>
 <p><em>سؤال: ماهي قيمة <code>foo</code>؟</em></p>
