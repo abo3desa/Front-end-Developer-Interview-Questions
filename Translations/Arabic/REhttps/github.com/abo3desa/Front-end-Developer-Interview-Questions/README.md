@@ -126,17 +126,16 @@
 <li>في العادة لماذا من الأفضل ان ترفع site assets من domains ؟متعدده</li>
 <li>افعل ما بوسعك لشرح ما يحدث من بداية كتابك عنوان الموقع الى انتهاء تحميله على شاشتك.</li>
 <li>ما الفرق بين Long-Polling و Websockets  و Server-Sent Events؟</li>
-<li>اشرح التالي
+<li>اشرح request and response headers التاليه:</li>
 <ul>
-<li>الفرق بين Expires, Date, Age and If-Modified-...</li>
+<li>الفرق بين Expires, Date, Age, ...-If-Modified</li>
 <li>Do Not Track</li>
 <li>Cache-Control</li>
 <li>Transfer-Encoding</li>
 <li>ETag</li>
 <li>X-Frame-Options</li>
 </ul>
-</li>
-<li>ما هي أساليب HTTP؟ عدد كل HTTP التي تعرفها، واشرحها.</li>
+<li>ما هي HTTP methods عدد كل HTTP التي تعرفها، واشرحها.</li>
 </ul>
 <h3>أسئلة برمجة:</h3>
 <p><em>سؤال: ماهي قيمة <code>foo</code>؟</em></p>
