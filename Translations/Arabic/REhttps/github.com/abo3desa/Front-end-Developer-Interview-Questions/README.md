@@ -67,5 +67,18 @@
 <li>ماهو progressive rendering؟</li>
 <li>هل استخدمت HTML templating languages مختلفة من قبل؟</li>
 </ul>
+<h3>أسئلة CSS:</h3>
+<ul>
+</ul>
+<h3>أسئلة اختبار البرمجيات Testing:</h3>
+<ul></ul>
+<h3>أسئلة اداء البرمجيات Performance:</h3>
+<ul></ul>
+<h3>أسئلة شبكات Network:</h3>
+<ul></ul>
+<h3>أسئلة برمجة:</h3>
+<ul></ul>
+<h3>أسئلة مسلية:</h3>
+<ul></ul>
 </article>
 </div> 
