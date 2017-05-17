@@ -115,7 +115,11 @@
 <h3>أسئلة اداء البرمجيات Performance:</h3>
 <ul></ul>
 <h3>أسئلة شبكات Network:</h3>
-<ul></ul>
+<ul>
+<li>ما الأدوات التي تستخدمها لإيجاد مشاكل في الأداء؟</li>
+<li>ما هي الطرق التي من الممكن تحسن أداء ال scrolling في موقعك؟</li>
+<li>اشرح الفرق بين layout وpainting وcompositing؟</li>
+</ul>
 <h3>أسئلة برمجة:</h3>
 <p><em>سؤال: ماهي قيمة <code>foo</code>؟</em></p>
 <div dir='ltr' class="highlight highlight-source-js">
