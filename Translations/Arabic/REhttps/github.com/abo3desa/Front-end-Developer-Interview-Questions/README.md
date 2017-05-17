@@ -113,26 +113,26 @@
 <ul></ul>
 <h3>أسئلة برمجة:</h3>
 <em>Question: What is the value of <code>foo</code>?</em>
-<div class="highlight highlight-source-js"><pre><span class="pl-k">var</span> foo <span class="pl-k">=</span> <span class="pl-c1">10</span> <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">'</span>20<span class="pl-pds">'</span></span>;</pre></div>
+<div dir='ltr' class="highlight highlight-source-js"><pre><span class="pl-k">var</span> foo <span class="pl-k">=</span> <span class="pl-c1">10</span> <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">'</span>20<span class="pl-pds">'</span></span>;</pre></div>
 <em>Question: What is the value of <code>foo</code>?</em>
-<div class="highlight highlight-source-js">
+<div dir='ltr' class="highlight highlight-source-js">
     <pre><span class="pl-k">var</span> foo <span class="pl-k">=</span> <span class="pl-c1">10</span> <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">'</span>20<span class="pl-pds">'</span></span>;</pre>
 </div>
 <p><em>Question: How would you make this work?</em></p>
-<div class="highlight highlight-source-js">
+<div dir='ltr' class="highlight highlight-source-js">
     <pre><span class="pl-en">add</span>(<span class="pl-c1">2</span>, <span class="pl-c1">5</span>); <span class="pl-c"><span class="pl-c">//</span> 7</span>
 <span class="pl-en">add</span>(<span class="pl-c1">2</span>)(<span class="pl-c1">5</span>); <span class="pl-c"><span class="pl-c">//</span> 7</span></pre>
 </div>
 <p><em>Question: What value is returned from the following statement?</em></p>
-<div class="highlight highlight-source-js">
+<div dir='ltr' class="highlight highlight-source-js">
     <pre><span class="pl-s"><span class="pl-pds">"</span>i'm a lasagna hog<span class="pl-pds">"</span></span>.<span class="pl-c1">split</span>(<span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>).<span class="pl-c1">reverse</span>().<span class="pl-c1">join</span>(<span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>);</pre>
 </div>
 <p><em>Question: What is the value of <code>window.foo</code>?</em></p>
-<div class="highlight highlight-source-js">
+<div dir='ltr' class="highlight highlight-source-js">
     <pre>( <span class="pl-c1">window</span>.<span class="pl-smi">foo</span> <span class="pl-k">||</span> ( <span class="pl-c1">window</span>.<span class="pl-smi">foo</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>bar<span class="pl-pds">"</span></span> ) );</pre>
 </div>
 <p><em>Question: What is the outcome of the two alerts below?</em></p>
-<div class="highlight highlight-source-js">
+<div dir='ltr' class="highlight highlight-source-js">
     <pre><span class="pl-k">var</span> foo <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Hello<span class="pl-pds">"</span></span>;
 (<span class="pl-k">function</span>() {
   <span class="pl-k">var</span> bar <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span> World<span class="pl-pds">"</span></span>;
@@ -141,26 +141,26 @@
 <span class="pl-en">alert</span>(foo <span class="pl-k">+</span> bar);</pre>
 </div>
 <p><em>Question: What is the value of <code>foo.length</code>?</em></p>
-<div class="highlight highlight-source-js">
+<div dir='ltr' class="highlight highlight-source-js">
     <pre><span class="pl-k">var</span> foo <span class="pl-k">=</span> [];
 <span class="pl-smi">foo</span>.<span class="pl-c1">push</span>(<span class="pl-c1">1</span>);
 <span class="pl-smi">foo</span>.<span class="pl-c1">push</span>(<span class="pl-c1">2</span>);</pre>
 </div>
 <p><em>Question: What is the value of <code>foo.x</code>?</em></p>
-<div class="highlight highlight-source-js">
+<div dir='ltr' class="highlight highlight-source-js">
     <pre><span class="pl-k">var</span> foo <span class="pl-k">=</span> {n<span class="pl-k">:</span> <span class="pl-c1">1</span>};
 <span class="pl-k">var</span> bar <span class="pl-k">=</span> foo;
 <span class="pl-smi">foo</span>.<span class="pl-c1">x</span> <span class="pl-k">=</span> foo <span class="pl-k">=</span> {n<span class="pl-k">:</span> <span class="pl-c1">2</span>};</pre>
 </div>
 <p><em>Question: What does the following code print?</em></p>
-<div class="highlight highlight-source-js">
+<div dir='ltr' class="highlight highlight-source-js">
     <pre><span class="pl-en">console</span>.<span class="pl-c1">log</span>(<span class="pl-s"><span class="pl-pds">'</span>one<span class="pl-pds">'</span></span>);
 <span class="pl-c1">setTimeout</span>(<span class="pl-k">function</span>() {
   <span class="pl-en">console</span>.<span class="pl-c1">log</span>(<span class="pl-s"><span class="pl-pds">'</span>two<span class="pl-pds">'</span></span>);
 }, <span class="pl-c1">0</span>);
 <span class="pl-en">console</span>.<span class="pl-c1">log</span>(<span class="pl-s"><span class="pl-pds">'</span>three<span class="pl-pds">'</span></span>);</pre>
-</div>
 <h3>أسئلة مسلية:</h3>
+</div>
 <ul>
 <li>ماذا عملت من مشروع رائع مؤخرا؟</li>
 <li>ما هي الاشياء التي اعجبتك في ادوات التطوير التي تستعملها؟</li>
