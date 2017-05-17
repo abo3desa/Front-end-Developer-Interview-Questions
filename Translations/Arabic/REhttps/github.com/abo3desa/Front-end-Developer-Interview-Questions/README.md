@@ -128,7 +128,7 @@
 <li>ما الفرق بين Long-Polling و Websockets  و Server-Sent Events؟</li>
 <li>اشرح request and response headers التاليه:</li>
 <ul>
-<li>الفرق بين Expires, Date, Age, If-Modified-...</li>
+<li>الفرق بين If-Modified-... , Expires, Date, Age</li>
 <li>Do Not Track</li>
 <li>Cache-Control</li>
 <li>Transfer-Encoding</li>
