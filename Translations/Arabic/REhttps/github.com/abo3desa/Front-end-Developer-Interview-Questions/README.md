@@ -23,7 +23,7 @@
 </ol>
 <h2>الدخول و المساهمه</h2>
 <ol>
-<li><a href='#'>المساهمين</a></li>
+<li><a href='#'>المساهمون</a></li>
 <li><a href='https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/CONTRIBUTING.md'>كيف تساهم</a></li>
 <li><a href='https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/LICENSE.md'>الرخصة</a></li>
 </ol>
@@ -115,5 +115,8 @@
 <ul></ul>
 <h3>أسئلة مسلية:</h3>
 <ul></ul>
+<h3>المساهمون</h3>
+<p>بدأت هذه الوثيقة في عام 2009 بتعاون @paul_irish @bentruyman @cowboy @ajpiano @SlexAxton @boazsender @miketaylr @vladikoff @gf3 @jon_neal @sambreed @iansym.</p>
+<p>ومنذ ذلك الحين تلقى مساهمات من أكثر من <a href='https://github.com/h5bp/Front-end-Developer-Interview-Questions/graphs/contributors'>100 مطور</a></p>
 </article>
 </div> 
