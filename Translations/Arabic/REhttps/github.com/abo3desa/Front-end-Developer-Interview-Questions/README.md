@@ -115,8 +115,8 @@
 <ul></ul>
 <h3>أسئلة مسلية:</h3>
 <ul></ul>
-<h3>المساهمون</h3>
-<p>بدأت هذه الوثيقة في عام 2009 بتعاون @paul_irish @bentruyman @cowboy @ajpiano @SlexAxton @boazsender @miketaylr @vladikoff @gf3 @jon_neal @sambreed @iansym.</p>
+<h3>:المساهمون</h3>
+<p>بدأت هذه الوثيقة في عام 2009 بتعاون <a href="https://twitter.com/paul_irish">@paul_irish</a> <a href="https://twitter.com/bentruyman">@bentruyman</a> <a href="https://twitter.com/cowboy">@cowboy</a> <a href="https://twitter.com/ajpiano">@ajpiano</a>  <a href="https://twitter.com/slexaxton">@SlexAxton</a> <a href="https://twitter.com/boazsender">@boazsender</a> <a href="https://twitter.com/miketaylr">@miketaylr</a> <a href="https://twitter.com/vladikoff">@vladikoff</a> <a href="https://twitter.com/gf3">@gf3</a> <a href="https://twitter.com/jon_neal">@jon_neal</a>.</p>
 <p>ومنذ ذلك الحين تلقى مساهمات من أكثر من <a href='https://github.com/h5bp/Front-end-Developer-Interview-Questions/graphs/contributors'>100 مطور</a></p>
 </article>
 </div> 
