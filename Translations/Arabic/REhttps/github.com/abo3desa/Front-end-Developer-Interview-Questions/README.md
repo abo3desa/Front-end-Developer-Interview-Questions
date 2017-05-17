@@ -23,7 +23,7 @@
 </ol>
 <h2>الدخول و المساهمه</h2>
 <ol>
-<li><a href='#'>المساهمون</a></li>
+<li><a href='#user-content-المساهمون'>المساهمون</a></li>
 <li><a href='https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/CONTRIBUTING.md'>كيف تساهم</a></li>
 <li><a href='https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/LICENSE.md'>الرخصة</a></li>
 </ol>
@@ -114,7 +114,14 @@
 <h3>أسئلة برمجة:</h3>
 <ul></ul>
 <h3>أسئلة مسلية:</h3>
-<ul></ul>
+<ul>
+<li>ما هو المشروع الرائع الذي عملت عليه مؤخرا؟ </li>
+<li>ما هي الاشياء التي اعجبتك في ادوات التطوير التي تستعملها؟ </li>
+<li>من الذي يلهمك في مجتمع تطوير واجهة الوب؟  </li>
+<li>هل لديك اي من المشاريع الصغيرة؟ ما نوعها؟ </li>
+<li>ما هي الميزة المفضلة لديك فيInternet Explorer؟</li>
+<li>كيف تحب قهوتك؟</li>
+</ul>
 <h3>المساهمون:</h3>
 <p>بدأت هذه الوثيقة في عام 2009 بتعاون <a href="https://twitter.com/paul_irish">@paul_irish</a> <a href="https://twitter.com/bentruyman">@bentruyman</a> <a href="https://twitter.com/cowboy">@cowboy</a> <a href="https://twitter.com/ajpiano">@ajpiano</a>  <a href="https://twitter.com/slexaxton">@SlexAxton</a> <a href="https://twitter.com/boazsender">@boazsender</a> <a href="https://twitter.com/miketaylr">@miketaylr</a> <a href="https://twitter.com/vladikoff">@vladikoff</a> <a href="https://twitter.com/gf3">@gf3</a> <a href="https://twitter.com/jon_neal">@jon_neal</a>.</p>
 <p>ومنذ ذلك الحين تلقى مساهمات من أكثر من <a href='https://github.com/h5bp/Front-end-Developer-Interview-Questions/graphs/contributors'>100 مطور.</a></p>
