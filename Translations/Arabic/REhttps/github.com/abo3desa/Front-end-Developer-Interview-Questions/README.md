@@ -12,14 +12,14 @@
 <h2>قائمة المحتوى</h2>
 <ol>
 <li><a href='#user-content-أسئلة-عامه'>أسئلة عامه</a></li>
-<li><a href='#'>أسئلة HTML</a></li>
-<li><a href='#'>أسئلة CSS</a></li>
-<li><a href='#'>أسئلة JS</a></li>
-<li><a href='#'>أسئلة اختبار البرمجيات Testing</a></li>
-<li><a href='#'>أسئلة اداء البرمجيات Performance</a></li>
-<li><a href='#'>أسئلة شبكات Network</a></li>
-<li><a href='#'>أسئلة برمجة</a></li>
-<li><a href='#'>أسئلة مسلية</a></li>
+<li><a href='#user-content-أسئلة-html'>أسئلة HTML</a></li>
+<li><a href='#user-content-أسئلة-css'>أسئلة CSS</a></li>
+<li><a href='#user-content-أسئلة-js'>أسئلة JS</a></li>
+<li><a href='#user-content-أسئلة-اختبار-البرمجيات-testing'>أسئلة اختبار البرمجيات Testing</a></li>
+<li><a href='#user-content-أسئلة-اداء-البرمجيات-performance'>أسئلة اداء البرمجيات Performance</a></li>
+<li><a href='#user-content-أسئلة-شبكات-network'>أسئلة شبكات Network</a></li>
+<li><a href='#user-content-أسئلة-برمجة'>أسئلة برمجة</a></li>
+<li><a href='#user-content-أسئلة-مسلية'>أسئلة مسلية</a></li>
 </ol>
 <h2>الدخول و المساهمه</h2>
 <ol>
@@ -69,7 +69,39 @@
 </ul>
 <h3>أسئلة CSS:</h3>
 <ul>
+<li>ما الفرق بين class و id في CSS؟</li>
+<li>ما الفرق بين "resetting" و "normalizing" في CSS؟ واي منهم ستختار, ولماذا؟</li>
+<li>اشرح Floats و كيف تعمل؟</li>
+<li></li>
+<li>اشرح BFC(Block Formatting Context) و كيف تعمل؟</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 </ul>
+<h3>أسئلة اختبار البرمجيات JS:</h3>
+<ul></ul>
 <h3>أسئلة اختبار البرمجيات Testing:</h3>
 <ul></ul>
 <h3>أسئلة اداء البرمجيات Performance:</h3>
