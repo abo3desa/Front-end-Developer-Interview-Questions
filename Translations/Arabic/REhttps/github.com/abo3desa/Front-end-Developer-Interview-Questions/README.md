@@ -72,13 +72,16 @@
 <li>ما الفرق بين class و id في CSS؟</li>
 <li>ما الفرق بين "resetting" و "normalizing" في CSS؟ واي منهم ستختار, ولماذا؟</li>
 <li>اشرح Floats و كيف تعمل؟</li>
-<li>اشرح z-index و كيف stacking context شُكلت</li>
+<li>اشرح z-index و كيف stacking context شُكلت؟</li>
 <li>اشرح (BFC(Block Formatting Context و كيف تعمل؟</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>ماهي clearing techniques المختلفه و اي منها مناسب لأي سياق؟</li>
+<li>اشرح CSS sprites, وكيف سوف تنفذعم في صفحه او موقع.</li>
+<li>ما هي طرق تبديل الصور "image replacement" المفضلة لديك اي متى تسخدم اي منها؟</li>
+<li>كيف تصلح مشكلة تنسيق في متصفح معين؟</li>
+<li>كيف تجعل صفحاتك تعمل على متصفحات مقيدة بالميزات "قديم"؟</li>
+<ul>
+<li>ما هي الطرق/العمليات التي تستخدمها؟</li>
+</ul>
 <li></li>
 <li></li>
 <li></li>
