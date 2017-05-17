@@ -85,10 +85,13 @@
 <li>ماهي الطرق المختلفة لكي تخفي المحتوى وتجعله فقط متوفر لقارء الشاشه فقط؟</li>
 <li>هل استخدمت نظام grid من قبل, و لو كان كذكلك ماذا تفضل؟</li>
 <li>هل استخدمت media queries او تنسيق محدد للهاتف؟</li>
-<li>هل انت</li>
+<li>هل انت معتاد مع تصميم SVG؟</li>
+<li>كيف تحسن الطباعه صفحاتك لطْباعة؟</li>
+<li>ماهي بعض المعوقات في كتابة CSS جيد؟</li>
 <li></li>
-<li></li>
-<li></li>
+<ul>
+<li>اوصف ماذا يعجبك وما لايعجبك حول استخدام CSS preprocessors؟</li>
+</ul>
 <li></li>
 <li></li>
 <li></li>
@@ -120,6 +123,20 @@
 </ul>
 <h3>أسئلة شبكات Network:</h3>
 <ul>
+<li>في العادة لماذا من الأفضل ان ترفع site assets من domains ؟متعدده</li>
+<li>افعل ما بوسعك لشرح ما يحدث من بداية كتابك عنوان الموقع الى انتهاء تحميله على شاشتك.</li>
+<li>ما الفرق بين Long-Polling و Websockets  و Server-Sent Events؟</li>
+<li>اشرح التالي
+<ul>
+<li>الفرق بين Expires, Date, Age and If-Modified-...</li>
+<li>Do Not Track</li>
+<li>Cache-Control</li>
+<li>Transfer-Encoding</li>
+<li>ETag</li>
+<li>X-Frame-Options</li>
+</ul>
+</li>
+<li>ما هي أساليب HTTP؟ عدد كل HTTP التي تعرفها، واشرحها.</li>
 </ul>
 <h3>أسئلة برمجة:</h3>
 <p><em>سؤال: ماهي قيمة <code>foo</code>؟</em></p>
