@@ -117,7 +117,7 @@
 <h3>أسئلة شبكات Network:</h3>
 <ul></ul>
 <h3>أسئلة برمجة:</h3>
-<em>سؤال: ماهي قيمة <code>foo</code>؟</em>
+<p><em>سؤال: ماهي قيمة <code>foo</code>؟</em></p>
 <div dir='ltr' class="highlight highlight-source-js">
     <pre><span class="pl-k">var</span> foo <span class="pl-k">=</span> <span class="pl-c1">10</span> <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">'</span>20<span class="pl-pds">'</span></span>;</pre>
 </div>
