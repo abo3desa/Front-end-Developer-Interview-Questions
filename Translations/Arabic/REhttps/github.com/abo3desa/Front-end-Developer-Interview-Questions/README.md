@@ -126,7 +126,7 @@
     <pre><span class="pl-en">add</span>(<span class="pl-c1">2</span>, <span class="pl-c1">5</span>); <span class="pl-c"><span class="pl-c">//</span> 7</span>
 <span class="pl-en">add</span>(<span class="pl-c1">2</span>)(<span class="pl-c1">5</span>); <span class="pl-c"><span class="pl-c">//</span> 7</span></pre>
 </div>
-<p><em>Question: What value is returned from the following statement?</em></p>
+<p><em>سؤال: ماهي القيمة العائده من الكود التالي؟</em></p>
 <div dir='ltr' class="highlight highlight-source-js">
     <pre><span class="pl-s"><span class="pl-pds">"</span>i'm a lasagna hog<span class="pl-pds">"</span></span>.<span class="pl-c1">split</span>(<span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>).<span class="pl-c1">reverse</span>().<span class="pl-c1">join</span>(<span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>);</pre>
 </div>
@@ -134,7 +134,7 @@
 <div dir='ltr' class="highlight highlight-source-js">
     <pre>( <span class="pl-c1">window</span>.<span class="pl-smi">foo</span> <span class="pl-k">||</span> ( <span class="pl-c1">window</span>.<span class="pl-smi">foo</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>bar<span class="pl-pds">"</span></span> ) );</pre>
 </div>
-<p><em>Question: What is the outcome of the two alerts below?</em></p>
+<p><em>سؤال: ماهو ناتج التنبهات التاليه</em></p>
 <div dir='ltr' class="highlight highlight-source-js">
     <pre><span class="pl-k">var</span> foo <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Hello<span class="pl-pds">"</span></span>;
 (<span class="pl-k">function</span>() {
