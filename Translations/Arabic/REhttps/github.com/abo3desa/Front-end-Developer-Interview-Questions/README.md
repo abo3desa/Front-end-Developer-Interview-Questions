@@ -163,11 +163,6 @@
 }, <span class="pl-c1">0</span>);
 <span class="pl-en">console</span>.<span class="pl-c1">log</span>(<span class="pl-s"><span class="pl-pds">'</span>three<span class="pl-pds">'</span></span>);</pre>
 </div>
-<div class="highlight highlight-source-js"><pre><span class="pl-en">console</span>.<span class="pl-c1">log</span>(<span class="pl-s"><span class="pl-pds">'</span>one<span class="pl-pds">'</span></span>);
-<span class="pl-c1">setTimeout</span>(<span class="pl-k">function</span>() {
-  <span class="pl-en">console</span>.<span class="pl-c1">log</span>(<span class="pl-s"><span class="pl-pds">'</span>two<span class="pl-pds">'</span></span>);
-}, <span class="pl-c1">0</span>);
-<span class="pl-en">console</span>.<span class="pl-c1">log</span>(<span class="pl-s"><span class="pl-pds">'</span>three<span class="pl-pds">'</span></span>);</pre></div>
 <h3>أسئلة مسلية:</h3>
 <ul>
 <li>ماذا عملت من مشروع رائع مؤخرا؟</li>
