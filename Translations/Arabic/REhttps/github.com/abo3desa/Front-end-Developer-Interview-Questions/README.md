@@ -106,7 +106,12 @@
 <h3>أسئلة JS:</h3>
 <ul></ul>
 <h3>أسئلة اختبار البرمجيات Testing:</h3>
-<ul></ul>
+<ul>
+<li>ما هي المزايا والعيوب لاختبار برمجياتك؟</li>
+<li>ما الأدوات التي تستخدمها لاختبار وظائف برمجياتك؟</li>
+<li>ما الفرق بين اختبار unit واختبار functional/integration؟</li>
+<li>ما الغرض من code style linting tool؟</li>
+</ul>
 <h3>أسئلة اداء البرمجيات Performance:</h3>
 <ul></ul>
 <h3>أسئلة شبكات Network:</h3>
