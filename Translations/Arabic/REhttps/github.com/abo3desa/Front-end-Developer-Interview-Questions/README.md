@@ -59,7 +59,7 @@
 <li>هل هناك مشكلة في استضافة صفحات<code>application/xhtml+xml</code>؟</li>
 <li>كيف تستضيف صفحه بمحتوى متعدد اللغات؟</li>
 <li>ماهي الاشياء التي يجب ان تحترس منها عند تصميم او تطور موقع متعدد اللغات؟</li>
-<li>ماهي فائدة <code>data-</code>؟</li>
+<li>ماهي فائدة <code>-data</code>؟</li>
 <li>اعتبر HTML5  منصة مفتوحة على شبكة الإنترنت ماهي اسس بناء HTML5؟</li>
 <li>اشرح الفرق بين <code>cookie</code>, <code>sessionStorage</code> و <code>localStorage</code>.</li>
 <li>اشرح الفرق بين <code>&lt;script&gt;</code>, <code>&lt;script async&gt;</code> و <code>&lt;script defer&gt;</code>.</li>
