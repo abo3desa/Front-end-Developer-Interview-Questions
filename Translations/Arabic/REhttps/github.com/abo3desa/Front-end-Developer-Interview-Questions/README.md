@@ -73,7 +73,7 @@
 <li>ما الفرق بين "resetting" و "normalizing" في CSS؟ واي منهم ستختار, ولماذا؟</li>
 <li>اشرح Floats و كيف تعمل؟</li>
 <li></li>
-<li>اشرح BFC(Block Formatting Context( و كيف تعمل؟</li>
+<li>اشرح (BFC(Block Formatting Context و كيف تعمل؟</li>
 <li></li>
 <li></li>
 <li></li>
