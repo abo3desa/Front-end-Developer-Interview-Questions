@@ -108,7 +108,7 @@
 <h3>أسئلة اختبار البرمجيات Testing:</h3>
 <ul>
 <li>ما هي المزايا والعيوب لاختبار برمجياتك؟</li>
-<li>ما الأدوات التي تستخدمها لاختبار وظائف برمجياتك؟</li>
+<li>ما الأدوات التي تستخدمهافي اختبار وظائف برمجياتك؟</li>
 <li>ما الفرق بين اختبار unit واختبار functional/integration؟</li>
 <li>ما الغرض من code style linting tool؟</li>
 </ul>
@@ -117,13 +117,11 @@
 <h3>أسئلة شبكات Network:</h3>
 <ul></ul>
 <h3>أسئلة برمجة:</h3>
-<em>Question: What is the value of <code>foo</code>?</em>
-<div dir='ltr' class="highlight highlight-source-js"><pre><span class="pl-k">var</span> foo <span class="pl-k">=</span> <span class="pl-c1">10</span> <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">'</span>20<span class="pl-pds">'</span></span>;</pre></div>
-<em>Question: What is the value of <code>foo</code>?</em>
+<em>سؤال: ماهي قيمة <code>foo</code>؟</em>
 <div dir='ltr' class="highlight highlight-source-js">
     <pre><span class="pl-k">var</span> foo <span class="pl-k">=</span> <span class="pl-c1">10</span> <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">'</span>20<span class="pl-pds">'</span></span>;</pre>
 </div>
-<p><em>Question: How would you make this work?</em></p>
+<p><em>سؤال: كيف يمكن جعل هذا الكود يعمل؟</em></p>
 <div dir='ltr' class="highlight highlight-source-js">
     <pre><span class="pl-en">add</span>(<span class="pl-c1">2</span>, <span class="pl-c1">5</span>); <span class="pl-c"><span class="pl-c">//</span> 7</span>
 <span class="pl-en">add</span>(<span class="pl-c1">2</span>)(<span class="pl-c1">5</span>); <span class="pl-c"><span class="pl-c">//</span> 7</span></pre>
