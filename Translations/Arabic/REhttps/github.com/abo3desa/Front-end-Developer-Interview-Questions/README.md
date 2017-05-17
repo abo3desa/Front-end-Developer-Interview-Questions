@@ -130,7 +130,7 @@
 <div dir='ltr' class="highlight highlight-source-js">
     <pre><span class="pl-s"><span class="pl-pds">"</span>i'm a lasagna hog<span class="pl-pds">"</span></span>.<span class="pl-c1">split</span>(<span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>).<span class="pl-c1">reverse</span>().<span class="pl-c1">join</span>(<span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>);</pre>
 </div>
-<p><em>Question: What is the value of <code>window.foo</code>?</em></p>
+<p><em>سؤال: ماهي قيمة <code>window.foo</code>؟</em></p>
 <div dir='ltr' class="highlight highlight-source-js">
     <pre>( <span class="pl-c1">window</span>.<span class="pl-smi">foo</span> <span class="pl-k">||</span> ( <span class="pl-c1">window</span>.<span class="pl-smi">foo</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>bar<span class="pl-pds">"</span></span> ) );</pre>
 </div>
@@ -143,27 +143,27 @@
 })();
 <span class="pl-en">alert</span>(foo <span class="pl-k">+</span> bar);</pre>
 </div>
-<p><em>Question: What is the value of <code>foo.length</code>?</em></p>
+<p><em>سؤال: ماهي قيمة <code>foo.length</code>؟</em></p>
 <div dir='ltr' class="highlight highlight-source-js">
     <pre><span class="pl-k">var</span> foo <span class="pl-k">=</span> [];
 <span class="pl-smi">foo</span>.<span class="pl-c1">push</span>(<span class="pl-c1">1</span>);
 <span class="pl-smi">foo</span>.<span class="pl-c1">push</span>(<span class="pl-c1">2</span>);</pre>
 </div>
-<p><em>Question: What is the value of <code>foo.x</code>?</em></p>
+<p><em>سؤال: ماهي قيمة <code>foo.x</code>؟</em></p>
 <div dir='ltr' class="highlight highlight-source-js">
     <pre><span class="pl-k">var</span> foo <span class="pl-k">=</span> {n<span class="pl-k">:</span> <span class="pl-c1">1</span>};
 <span class="pl-k">var</span> bar <span class="pl-k">=</span> foo;
 <span class="pl-smi">foo</span>.<span class="pl-c1">x</span> <span class="pl-k">=</span> foo <span class="pl-k">=</span> {n<span class="pl-k">:</span> <span class="pl-c1">2</span>};</pre>
 </div>
-<p><em>Question: What does the following code print?</em></p>
+<p><em>سؤال: ماذا يطبع الكود التالي</em></p>
 <div dir='ltr' class="highlight highlight-source-js">
     <pre><span class="pl-en">console</span>.<span class="pl-c1">log</span>(<span class="pl-s"><span class="pl-pds">'</span>one<span class="pl-pds">'</span></span>);
 <span class="pl-c1">setTimeout</span>(<span class="pl-k">function</span>() {
   <span class="pl-en">console</span>.<span class="pl-c1">log</span>(<span class="pl-s"><span class="pl-pds">'</span>two<span class="pl-pds">'</span></span>);
 }, <span class="pl-c1">0</span>);
 <span class="pl-en">console</span>.<span class="pl-c1">log</span>(<span class="pl-s"><span class="pl-pds">'</span>three<span class="pl-pds">'</span></span>);</pre>
-<h3>أسئلة مسلية:</h3>
 </div>
+<h3>أسئلة مسلية:</h3>
 <ul>
 <li>ماذا عملت من مشروع رائع مؤخرا؟</li>
 <li>ما هي الاشياء التي اعجبتك في ادوات التطوير التي تستعملها؟</li>
