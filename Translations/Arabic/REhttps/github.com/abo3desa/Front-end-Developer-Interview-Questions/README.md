@@ -63,7 +63,7 @@
 <li>اعتبر HTML5  منصة مفتوحة على شبكة الإنترنت ماهي اسس بناء HTML5؟</li>
 <li>اشرح الفرق بين <code>cookie</code>, <code>sessionStorage</code> و <code>localStorage</code>.</li>
 <li>اشرح الفرق بين <code>&lt;script&gt;</code>, <code>&lt;script async&gt;</code> و <code>&lt;script defer&gt;</code>.</li>
-<li>لماذا من الأفضل وضع سي اس اس  <code>&lt;link&gt;</code> بين <code>&lt;head&gt;&lt;/head&gt;</code> و جي اس <code>&lt;script&gt;</code> قبل <code>&lt;/body&gt;</code>؟</li>
+<li>لماذا من الأفضل وضع سي اس اس  <code>&lt;link&gt;</code> بين <code>&lt;head&gt;&lt;/head&gt;</code> و جافاسكربت <code>&lt;script&gt;</code> قبل <code>&lt;/body&gt;</code>؟</li>
 <li>ماهو progressive rendering؟</li>
 <li>هل استخدمت HTML templating languages مختلفة من قبل؟</li>
 </ul>
