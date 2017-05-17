@@ -135,7 +135,7 @@
 <li>ETag</li>
 <li>X-Frame-Options</li>
 </ul>
-<li>ما هي HTTP methods عدد كل HTTP التي تعرفها، واشرحها.</li>
+<li>ما هي؟ HTTP methods عدد كل HTTP methods التي تعرفها، واشرحها.</li>
 </ul>
 <h3>أسئلة برمجة:</h3>
 <p><em>سؤال: ماهي قيمة <code>foo</code>؟</em></p>
