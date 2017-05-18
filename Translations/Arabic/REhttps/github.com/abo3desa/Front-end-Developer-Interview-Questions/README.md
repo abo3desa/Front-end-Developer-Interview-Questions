@@ -91,14 +91,14 @@
 <ul>
 <li>اوصف ماذا يعجبك وما لايعجبك حول استخدام CSS preprocessors؟</li>
 </ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>كيف كيف لك تنفيذ web design comp بستخدام خطوط ليست اساسية؟</li>
+<li>اشرح كيف يتسطيع المتصفح تحديد اي عنصر ينتمي الى اي CSS selector؟</li>
+<li>اوصف pseudo-elements و ناقش في ماذا يستخدمون؟</li>
+<li>اشرح ماهو box model و كيف ستخبر المتصفح تنسيق في box models مختلفة بستخدام CSS.</li>
+<li>ماذا <code>* { box-sizing: border-box; }</code> يفعل, وماهي اجابياته؟</li>
+<li>عدد كل قيم خاصية display التي تتذكرها.</li>
+<li>ما هو الفرق بين inline و inline-block؟</li>
+<li>ماهو الفرق بين قيم relative, fixed, absolute و statically في خاصية position</li>
 <li></li>
 <li></li>
 <li></li>
@@ -139,7 +139,7 @@
 <h3>أسئلة برمجة:</h3>
 </div> 
 
-<p><em>سؤال: ماهي قيمة <code>foo</code>؟</em></p>
+<p dir="rtl"><em>سؤال: ماهي قيمة <code>foo</code>؟</em></p>
 
 ```javascript
 var foo = 10 + '20';
@@ -164,7 +164,7 @@ add(2)(5); // 7
 ( window.foo || ( window.foo = "bar" ) );
 ```
 
-<p dir="rtl"><em>سؤال: ماهو ناتج التنبهات التاليه</em></p>
+<p dir="rtl"><em>سؤال: ماهو ناتج التنبهات التاليه؟</em></p>
 
 ```javascript
 var foo = "Hello";
@@ -182,6 +182,7 @@ var foo = [];
 foo.push(1);
 foo.push(2);
 ```
+
 <p dir="rtl"><em>سؤال: ماهي قيمة <code>foo.x</code>؟</em></p>
 
 ```javascript
@@ -189,8 +190,8 @@ var foo = {n: 1};
 var bar = foo;
 foo.x = foo = {n: 2};
 ```
-<p dir="rtl"><em>سؤال: ماذا يطبع الكود التالي</em></p>
 
+<p dir="rtl"><em>سؤال: ماذا يطبع الكود التالي؟</em></p>
 
 ```javascript
 console.log('one');
@@ -199,8 +200,6 @@ setTimeout(function() {
 }, 0);
 console.log('three');
 ```
-
-
 
 <div dir="rtl">
 <h3>أسئلة مسلية:</h3>
