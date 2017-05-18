@@ -104,7 +104,7 @@
 <li>هل جربت او استعملت قليلا CSS Flexbox او Grid؟</li>
 <li>كيف يكون responsive design مختلف عن adaptive design</li>
 <li>هل عملت من قبل مع retina graphics, ولو كان كذلك متى و ماهي الطرق التي استعملتها؟</li>
-<li>هل هناك سبب  يجعلك من الممكن ان تستعمل <code>()translate</code> بدلا من fghgfh او gfhfgh؟ ولماذا.</li>
+<li>هل هناك سبب  يجعلك من الممكن ان تستعمل <code>()translate</code> بدلا من absolute positioning او vice-versa؟ ولماذا.</li>
 </ul>
 <h3>أسئلة JS:</h3>
 <ul></ul>
