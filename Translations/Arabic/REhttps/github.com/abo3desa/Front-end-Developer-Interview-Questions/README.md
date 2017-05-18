@@ -107,11 +107,56 @@
 <li>هل هناك سبب  يجعلك من الممكن ان تستعمل <code>()translate</code> بدلا من absolute positioning او vice-versa؟ ولماذا.</li>
 </ul>
 <h3>أسئلة JS:</h3>
+<li>اشرحevent delegation</li>
+<li>اشرح كيف <code>this</code> هذا في JavaScript</li>
+<li>اشرح كيف يعمل prototypal inheritance</li>
+<li>ما رأيك في AMD vs CommonJS؟<ul><li>ما الذي يحتاج لتصحيح لجعله IIFE؟</li></ul></li>
+<li>ما الفرق بين المتغيرات: null, undefined، undeclared؟<ul><li>ما الذي ستفعله لتتحقق من أي من هذه الحالات؟</li></ul></li>
+<li>ما هو closure وكيف/لماذا تستخدمه؟</li>
+<li>ما هي حالة الاستخدام النموذجي لـ anonymous functions؟</li>
+<li>كيف تنظم برمجياتك؟ (module pattern, classical inheritance?)</li>
+<li>ما الفرق بين host objects وnative objects؟</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li>ما مدى خبرتك في استعمال Promises و/او polyfills خاصتهم؟</li>
+<li>ماهي بعض المزايا و العيوب في استخدام Promises  بدلا من callbacks؟</li>
+<li>ماهي بعض الاجابيات و السلبيات في كتابتة جافاسكرت كود في لغة يحدث لها compiles الى جافاسكربت؟</li>
+<li>ماهي الادوات و الطرق التي تستخدمها في البحث و التصحيح عن اخطاءك في الجافاسكربت كود؟</li>
+<li>ماهي language constructions تستعمل لتكرار على خواص object و عناصر array؟</li>
 <ul>
-
-
-
-<li>اشرح الفرق في استخدام  <code>foo</code> بين <code>function {} ()foo</code> و  <code>var foo = {} ()function</code></li>
+<li>اشرح الفرق بين mutable و immutable objects.</li>
+<ul>
+<li>ماذا يعتبر في الجافاسكربت لـ immutable object؟</li>
+<li>ماهي الاجابيات و السلبيات الـ immutability؟</li>
+<li>كيف يمكنك تحقيق immutability في الكود الخاص بك؟</li>
+</ul>
+<li>اشرح الفرق بين synchronous و asynchronous functions.</li>
+<li>ماهو event loop؟</li>
+<ul>
+<li>ما هو الفرق بين call stack و task queue</li>
+</ul>
+<li>اشرح الفرق في استخدام  <code>foo</code> بين <code>function foo() {}</code> و  <code>var foo = function() {}</code></li>
 </ul>
 <h3>أسئلة اختبار البرمجيات Testing:</h3>
 <ul>
