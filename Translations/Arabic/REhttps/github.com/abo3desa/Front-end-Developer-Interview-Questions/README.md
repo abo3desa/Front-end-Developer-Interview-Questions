@@ -107,15 +107,19 @@
 <li>هل هناك سبب  يجعلك من الممكن ان تستعمل <code>()translate</code> بدلا من absolute positioning او vice-versa؟ ولماذا.</li>
 </ul>
 <h3>أسئلة JS:</h3>
-<li>اشرحevent delegation</li>
-<li>اشرح كيف <code>this</code> هذا في JavaScript</li>
-<li>اشرح كيف يعمل prototypal inheritance</li>
-<li>ما رأيك في AMD vs CommonJS؟<ul><li>ما الذي يحتاج لتصحيح لجعله IIFE؟</li></ul></li>
+<li>اشرح event delegation</li>
+<li>اشرح كيف <code>this</code> تعمل في JavaScript</li>
+<li>اشرح كيف تعمل prototypal inheritance</li>
+<li>ما رأيك في AMD vs CommonJS؟</li>
+<li>اشرح لماذا التالي لا يعمل كا IIFE: <code>;(){ }{}function foo</code></li>
+<ul>
+<li>ما الذي يحتاج لتصحيح لجعله IIFE بصوره صحيحه؟</li>
+</ul>
 <li>ما الفرق بين المتغيرات: null, undefined، undeclared؟<ul><li>ما الذي ستفعله لتتحقق من أي من هذه الحالات؟</li></ul></li>
 <li>ما هو closure وكيف/لماذا تستخدمه؟</li>
 <li>ما هي حالة الاستخدام النموذجي لـ anonymous functions؟</li>
 <li>كيف تنظم برمجياتك؟ (module pattern, classical inheritance?)</li>
-<li>ما الفرق بين host objects وnative objects؟</li>
+<li>ما الفرق بين host objects و native objects؟</li>
 <li></li>
 <li></li>
 <li></li>
@@ -156,7 +160,7 @@
 <ul>
 <li>ما هو الفرق بين call stack و task queue</li>
 </ul>
-<li>اشرح الفرق في استخدام  <code>foo</code> بين <code>function foo() {}</code> و  <code>var foo = function() {}</code></li>
+<li>اشرح الفرق في استخدام  <code>foo</code> بين <code>{} ()function foo</code> و  <code>{} ()var foo = function</code></li>
 </ul>
 <h3>أسئلة اختبار البرمجيات Testing:</h3>
 <ul>
