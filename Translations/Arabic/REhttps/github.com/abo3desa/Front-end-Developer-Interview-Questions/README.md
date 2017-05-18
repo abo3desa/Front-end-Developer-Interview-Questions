@@ -107,6 +107,7 @@
 <li>هل هناك سبب  يجعلك من الممكن ان تستعمل <code>()translate</code> بدلا من absolute positioning او vice-versa؟ ولماذا.</li>
 </ul>
 <h3>أسئلة JS:</h3>
+<ul>
 <li>اشرح event delegation</li>
 <li>اشرح كيف <code>this</code> تعمل في JavaScript</li>
 <li>اشرح كيف تعمل prototypal inheritance</li>
