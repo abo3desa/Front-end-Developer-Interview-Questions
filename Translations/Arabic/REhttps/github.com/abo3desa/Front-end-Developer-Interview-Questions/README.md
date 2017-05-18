@@ -115,7 +115,10 @@
 <ul>
 <li>ما الذي يحتاج لتصحيح لجعله IIFE بصوره صحيحه؟</li>
 </ul>
-<li>ما الفرق بين المتغيرات: null, undefined، undeclared؟<ul><li>ما الذي ستفعله لتتحقق من أي من هذه الحالات؟</li></ul></li>
+<li>ما الفرق بين المتغيرات: null, undefined، undeclared؟</li>
+<ul>
+<li>ما الذي ستفعله لتتحقق من أي من هذه الحالات؟</li>
+</ul>
 <li>ما هو closure وكيف/لماذا تستخدمه؟</li>
 <li>ما هي حالة الاستخدام النموذجي لـ anonymous functions؟</li>
 <li>كيف تنظم برمجياتك؟ (module pattern, classical inheritance?)</li>
