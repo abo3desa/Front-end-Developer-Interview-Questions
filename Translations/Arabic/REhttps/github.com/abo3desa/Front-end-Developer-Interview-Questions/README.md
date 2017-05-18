@@ -1,4 +1,3 @@
-<!--
 <div dir="rtl">
 <h1>أسئلة مقابله شخصية في تطوير واجهةالويب</h1>
 <p>هذا الملف يحتوي على عدد من أسئلة مقابلة شخصية قي تطوير واجهة الويب التي من الممكن ان تساعدك في فحص المرشحين المحتملين للوظيفة.
@@ -139,7 +138,9 @@
 </ul>
 <h3>أسئلة برمجة:</h3>
 </div> 
--->
+
+<p><em>سؤال: ماهي قيمة <code>foo</code>؟</em></p>
+
 ```javascript
 var foo = 10 + '20';
 ```
@@ -200,7 +201,7 @@ console.log('three');
 ```
 
 
-<!--
+
 <div dir="rtl">
 <h3>أسئلة مسلية:</h3>
 <ul>
@@ -215,4 +216,3 @@ console.log('three');
 <p>بدأت هذه الوثيقة في عام 2009 بتعاون <a href="https://twitter.com/paul_irish">@paul_irish</a> <a href="https://twitter.com/bentruyman">@bentruyman</a> <a href="https://twitter.com/cowboy">@cowboy</a> <a href="https://twitter.com/ajpiano">@ajpiano</a>  <a href="https://twitter.com/slexaxton">@SlexAxton</a> <a href="https://twitter.com/boazsender">@boazsender</a> <a href="https://twitter.com/miketaylr">@miketaylr</a> <a href="https://twitter.com/vladikoff">@vladikoff</a> <a href="https://twitter.com/gf3">@gf3</a> <a href="https://twitter.com/jon_neal">@jon_neal</a>.</p>
 <p>ومنذ ذلك الحين تلقى مساهمات من أكثر من <a href='https://github.com/h5bp/Front-end-Developer-Interview-Questions/graphs/contributors'>100 مطور.</a></p>
 </div>
--->
