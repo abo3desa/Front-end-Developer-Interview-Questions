@@ -124,13 +124,14 @@
 <li>ما هي حالة الاستخدام النموذجي لـ anonymous functions؟</li>
 <li>كيف تنظم برمجياتك؟ (module pattern, classical inheritance?)</li>
 <li>ما الفرق بين host objects و native objects؟</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>القرق بين <code>function Person(){}</code>, <code>var person = Person()</code>,و <code>var person = new Person()</code>؟   </li>
+<li>ما الفرق بين  <code>.call</code>و <code>.apply</code>؟  </li>
+<li>اشرح <code>Function.prototype.bind</code>. </li>
+<li>متى تستخدم <code>document.write()</code>؟ </li>
+<li>ما الفرق بين feature detection, feature inference , واستخدام الـ UA string ؟</li>
+<li>اشرح Ajax في اكبرقدر من التفاصيل .</li>
+<li>ما هي المزايا والعيوب في استخدام Ajax ؟</li>
+<li>اشرح كيف JSONP  يعمل (وكيف أنها ليست حقا Ajax ).</li>
 <li></li>
 <li></li>
 <li></li>
