@@ -1,5 +1,4 @@
 <div dir="rtl">
-<article>
 <h1>أسئلة مقابله شخصية في تطوير واجهةالويب</h1>
 <p>هذا الملف يحتوي على عدد من أسئلة مقابلة شخصية قي تطوير واجهة الويب التي من الممكن ان تساعدك في فحص المرشحين المحتملين للوظيفة.
 <br>
@@ -88,7 +87,7 @@
 <li>هل انت معتاد مع تصميم SVG؟</li>
 <li>كيف تحسن الطباعه صفحاتك لطْباعة؟</li>
 <li>ماهي بعض المعوقات في كتابة CSS جيد؟</li>
-<li></li>
+<li>ماهي الاجابيات/السلبيات في استخدام CSS preprocessors؟</li>
 <ul>
 <li>اوصف ماذا يعجبك وما لايعجبك حول استخدام CSS preprocessors؟</li>
 </ul>
@@ -138,52 +137,54 @@
 <li>ما هي HTTP methods؟ و عدد كل HTTP methods التي تعرفها، واشرحها.</li>
 </ul>
 <h3>أسئلة برمجة:</h3>
-<p><em>سؤال: ماهي قيمة <code>foo</code>؟</em></p>
-<div dir='ltr' class="highlight highlight-source-js">
-    <pre><span class="pl-k">var</span> foo <span class="pl-k">=</span> <span class="pl-c1">10</span> <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">'</span>20<span class="pl-pds">'</span></span>;</pre>
-</div>
-<p><em>سؤال: كيف يمكن جعل هذا الكود يعمل؟</em></p>
-<div dir='ltr' class="highlight highlight-source-js">
-    <pre><span class="pl-en">add</span>(<span class="pl-c1">2</span>, <span class="pl-c1">5</span>); <span class="pl-c"><span class="pl-c">//</span> 7</span>
-<span class="pl-en">add</span>(<span class="pl-c1">2</span>)(<span class="pl-c1">5</span>); <span class="pl-c"><span class="pl-c">//</span> 7</span></pre>
-</div>
-<p><em>سؤال: ماهي القيمة العائده من الكود التالي؟</em></p>
-<div dir='ltr' class="highlight highlight-source-js">
-    <pre><span class="pl-s"><span class="pl-pds">"</span>i'm a lasagna hog<span class="pl-pds">"</span></span>.<span class="pl-c1">split</span>(<span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>).<span class="pl-c1">reverse</span>().<span class="pl-c1">join</span>(<span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>);</pre>
-</div>
-<p><em>سؤال: ماهي قيمة <code>window.foo</code>؟</em></p>
-<div dir='ltr' class="highlight highlight-source-js">
-    <pre>( <span class="pl-c1">window</span>.<span class="pl-smi">foo</span> <span class="pl-k">||</span> ( <span class="pl-c1">window</span>.<span class="pl-smi">foo</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>bar<span class="pl-pds">"</span></span> ) );</pre>
-</div>
-<p><em>سؤال: ماهو ناتج التنبهات التاليه</em></p>
-<div dir='ltr' class="highlight highlight-source-js">
-    <pre><span class="pl-k">var</span> foo <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Hello<span class="pl-pds">"</span></span>;
-(<span class="pl-k">function</span>() {
-  <span class="pl-k">var</span> bar <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span> World<span class="pl-pds">"</span></span>;
-  <span class="pl-en">alert</span>(foo <span class="pl-k">+</span> bar);
+</div> 
+```javascript
+var foo = 10 + '20';
+```
+<p dir="rtl"><em>سؤال: كيف يمكن جعل هذا الكود يعمل؟</em></p>
+```javascript
+add(2, 5); // 7
+add(2)(5); // 7
+```
+<p dir="rtl"><em>سؤال: ماهي القيمة العائده من الكود التالي؟</em></p>
+```javascript
+"i'm a lasagna hog".split("").reverse().join("");
+```
+<p dir="rtl"><em>سؤال: ماهي قيمة <code>window.foo</code>؟</em></p>
+```javascript
+( window.foo || ( window.foo = "bar" ) );
+```
+<p dir="rtl"><em>سؤال: ماهو ناتج التنبهات التاليه</em></p>
+```javascript
+var foo = "Hello";
+(function() {
+  var bar = " World";
+  alert(foo + bar);
 })();
-<span class="pl-en">alert</span>(foo <span class="pl-k">+</span> bar);</pre>
-</div>
-<p><em>سؤال: ماهي قيمة <code>foo.length</code>؟</em></p>
-<div dir='ltr' class="highlight highlight-source-js">
-    <pre><span class="pl-k">var</span> foo <span class="pl-k">=</span> [];
-<span class="pl-smi">foo</span>.<span class="pl-c1">push</span>(<span class="pl-c1">1</span>);
-<span class="pl-smi">foo</span>.<span class="pl-c1">push</span>(<span class="pl-c1">2</span>);</pre>
-</div>
-<p><em>سؤال: ماهي قيمة <code>foo.x</code>؟</em></p>
-<div dir='ltr' class="highlight highlight-source-js">
-    <pre><span class="pl-k">var</span> foo <span class="pl-k">=</span> {n<span class="pl-k">:</span> <span class="pl-c1">1</span>};
-<span class="pl-k">var</span> bar <span class="pl-k">=</span> foo;
-<span class="pl-smi">foo</span>.<span class="pl-c1">x</span> <span class="pl-k">=</span> foo <span class="pl-k">=</span> {n<span class="pl-k">:</span> <span class="pl-c1">2</span>};</pre>
-</div>
-<p><em>سؤال: ماذا يطبع الكود التالي</em></p>
-<div dir='ltr' class="highlight highlight-source-js">
-    <pre><span class="pl-en">console</span>.<span class="pl-c1">log</span>(<span class="pl-s"><span class="pl-pds">'</span>one<span class="pl-pds">'</span></span>);
-<span class="pl-c1">setTimeout</span>(<span class="pl-k">function</span>() {
-  <span class="pl-en">console</span>.<span class="pl-c1">log</span>(<span class="pl-s"><span class="pl-pds">'</span>two<span class="pl-pds">'</span></span>);
-}, <span class="pl-c1">0</span>);
-<span class="pl-en">console</span>.<span class="pl-c1">log</span>(<span class="pl-s"><span class="pl-pds">'</span>three<span class="pl-pds">'</span></span>);</pre>
-</div>
+alert(foo + bar);
+```
+
+<p dir="rtl"><em>سؤال: ماهي قيمة <code>foo.length</code>؟</em></p>
+```javascript
+var foo = [];
+foo.push(1);
+foo.push(2);
+```
+<p dir="rtl"><em>سؤال: ماهي قيمة <code>foo.x</code>؟</em></p>
+```javascript
+var foo = {n: 1};
+var bar = foo;
+foo.x = foo = {n: 2};
+```
+<p dir="rtl"><em>سؤال: ماذا يطبع الكود التالي</em></p>
+```javascript
+console.log('one');
+setTimeout(function() {
+  console.log('two');
+}, 0);
+console.log('three');
+```
+<div dir="rtl">
 <h3>أسئلة مسلية:</h3>
 <ul>
 <li>ماذا عملت من مشروع رائع مؤخرا؟</li>
@@ -196,5 +197,4 @@
 <h3>المساهمون:</h3>
 <p>بدأت هذه الوثيقة في عام 2009 بتعاون <a href="https://twitter.com/paul_irish">@paul_irish</a> <a href="https://twitter.com/bentruyman">@bentruyman</a> <a href="https://twitter.com/cowboy">@cowboy</a> <a href="https://twitter.com/ajpiano">@ajpiano</a>  <a href="https://twitter.com/slexaxton">@SlexAxton</a> <a href="https://twitter.com/boazsender">@boazsender</a> <a href="https://twitter.com/miketaylr">@miketaylr</a> <a href="https://twitter.com/vladikoff">@vladikoff</a> <a href="https://twitter.com/gf3">@gf3</a> <a href="https://twitter.com/jon_neal">@jon_neal</a>.</p>
 <p>ومنذ ذلك الحين تلقى مساهمات من أكثر من <a href='https://github.com/h5bp/Front-end-Developer-Interview-Questions/graphs/contributors'>100 مطور.</a></p>
-</article>
-</div> 
+</div>
