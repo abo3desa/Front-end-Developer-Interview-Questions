@@ -155,6 +155,7 @@
 <li>ماهي language constructions تستعمل لتكرار على خواص object و عناصر array؟</li>
 <ul>
 <li>اشرح الفرق بين mutable و immutable objects.</li>
+</ul>
 <ul>
 <li>ماذا يعتبر في الجافاسكربت لـ immutable object؟</li>
 <li>ماهي الاجابيات و السلبيات الـ immutability؟</li>
