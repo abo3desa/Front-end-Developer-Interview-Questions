@@ -139,23 +139,32 @@
 </ul>
 <h3>أسئلة برمجة:</h3>
 </div> 
+-->
 ```javascript
 var foo = 10 + '20';
 ```
+
 <p dir="rtl"><em>سؤال: كيف يمكن جعل هذا الكود يعمل؟</em></p>
+
 ```javascript
 add(2, 5); // 7
 add(2)(5); // 7
 ```
+
 <p dir="rtl"><em>سؤال: ماهي القيمة العائده من الكود التالي؟</em></p>
+
 ```javascript
 "i'm a lasagna hog".split("").reverse().join("");
 ```
+
 <p dir="rtl"><em>سؤال: ماهي قيمة <code>window.foo</code>؟</em></p>
+
 ```javascript
 ( window.foo || ( window.foo = "bar" ) );
 ```
+
 <p dir="rtl"><em>سؤال: ماهو ناتج التنبهات التاليه</em></p>
+
 ```javascript
 var foo = "Hello";
 (function() {
@@ -166,19 +175,21 @@ alert(foo + bar);
 ```
 
 <p dir="rtl"><em>سؤال: ماهي قيمة <code>foo.length</code>؟</em></p>
+
 ```javascript
 var foo = [];
 foo.push(1);
 foo.push(2);
 ```
 <p dir="rtl"><em>سؤال: ماهي قيمة <code>foo.x</code>؟</em></p>
+
 ```javascript
 var foo = {n: 1};
 var bar = foo;
 foo.x = foo = {n: 2};
 ```
 <p dir="rtl"><em>سؤال: ماذا يطبع الكود التالي</em></p>
--->
+
 
 ```javascript
 console.log('one');
