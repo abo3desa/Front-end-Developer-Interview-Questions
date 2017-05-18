@@ -95,15 +95,16 @@
 <li>اشرح كيف يتسطيع المتصفح تحديد اي عنصر ينتمي الى اي CSS selector؟</li>
 <li>اوصف pseudo-elements و ناقش في ماذا يستخدمون؟</li>
 <li>اشرح ماهو box model و كيف ستخبر المتصفح تنسيق في box models مختلفة بستخدام CSS.</li>
-<li>ماذا <code>* { box-sizing: border-box; }</code> يفعل, وماهي اجابياته؟</li>
+<li>ماذا <code>{ ;box-sizing: border-box } *</code> يفعل, وماهي اجابياته؟</li>
 <li>عدد كل قيم خاصية display التي تتذكرها.</li>
 <li>ما هو الفرق بين inline و inline-block؟</li>
-<li>ماهو الفرق بين قيم relative, fixed, absolute و statically في خاصية position</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>ماهو الفرق بين قيم relative, fixed, absolute و statically في خاصية position؟</li>
+<li>الحرف "C" في CSS يرمز الى Cascading. كيف تحدد الافضلية في تعيين التصميم , وكيف لك ان تستفيد من هذه الخاصية؟</li>
+<li>اي من اطارات عمل CSS استخدمت في الانتاج او على محليا في جهازك, زكيف لك تغير/تطورهم؟</li>
+<li>هل جربت او استعملت قليلا CSS Flexbox او Grid؟</li>
+<li>كيف يكون responsive design مختلف عن adaptive design</li>
+<li>هل عملت من قبل مع retina graphics, ولو كان كذلك متى و ماهي الطرق التي استعملتها؟</li>
+<li>هل هناك سبب  يجعلك من الممكن ان تستعمل <code>()translate</code> بدلا من fghgfh او gfhfgh؟ ولماذا.</li>
 </ul>
 <h3>أسئلة JS:</h3>
 <ul></ul>
