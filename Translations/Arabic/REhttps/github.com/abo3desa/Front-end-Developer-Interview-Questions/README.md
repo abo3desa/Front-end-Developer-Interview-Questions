@@ -178,13 +178,17 @@ var bar = foo;
 foo.x = foo = {n: 2};
 ```
 <p dir="rtl"><em>سؤال: ماذا يطبع الكود التالي</em></p>
--->```javascript
+-->
+
+```javascript
 console.log('one');
 setTimeout(function() {
   console.log('two');
 }, 0);
 console.log('three');
 ```
+
+
 <!--
 <div dir="rtl">
 <h3>أسئلة مسلية:</h3>
