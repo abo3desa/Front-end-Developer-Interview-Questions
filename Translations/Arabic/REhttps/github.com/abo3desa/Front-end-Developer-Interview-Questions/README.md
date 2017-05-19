@@ -112,7 +112,7 @@
 <li>اشرح كيف <code>this</code> تعمل في JavaScript</li>
 <li>اشرح كيف تعمل prototypal inheritance</li>
 <li>ما رأيك في AMD vs CommonJS؟</li>
-<li>اشرح لماذا التالي لا يعمل كا IIFE:<code>;(){ }{}function foo</code>.</li>
+<li>اشرح لماذا التالي <code>;(){ }{}function foo</code> لا يعمل كا IIFE?</li>
 <ul>
 <li>ما الذي يحتاج لتصحيح لجعله IIFE بصوره صحيحه؟</li>
 </ul>
