@@ -1,16 +1,16 @@
 <div dir="rtl">
 <h1>أسئلة مقابله شخصية في تطوير واجهةالويب</h1>
-<p>هذا الملف يحتوي على عدد من أسئلة مقابلة شخصية قي تطوير واجهة الويب التي من الممكن ان تساعدك في فحص المرشحين المحتملين للوظيفة.
+<p>هذا الملف يحتوي على عدد من أسئلة مقابلة شخصية في تطوير واجهة الويب التي من الممكن ان تساعدك في فحص المرشحين المحتملين للوظيفة.
 <br>
-لا ينصح بستخدام كل الأسئلة هنا على مرشح واحد,
+لا ينصح باستخدام كل الأسئلة هنا على مرشح واحد,
 فاختيار بعض من الأسئلة سيساعدك في تحديد من يمتلك المهارات المتوافقه مع متطلباتك.
 <br>
 <br>
- <strong>ملاحظة: </strong>كثير من هذه الأسئلة ليس لها إجابات محددة مما قد يؤدي الى نقاش مثير للأهتمام و يعرفك على قدرات الشخص اكثر مما تتوقع من اجابة محدده.
+ <strong>ملاحظة: </strong>كثير من هذه الأسئلة ليس لها إجابات محددة مما قد يؤدي الى نقاش مثير للاهتمام , و يعرفك على قدرات الشخص أكثر مما تتوقع من اجابة محدده.
 </p>
 <h2>قائمة المحتوى</h2>
 <ol>
-<li><a href='#user-content-أسئلة-عامه'>أسئلة عامه</a></li>
+<li><a href='#user-content-أسئلة-عامه'>أسئلة عامة</a></li>
 <li><a href='#user-content-أسئلة-html'>أسئلة HTML</a></li>
 <li><a href='#user-content-أسئلة-css'>أسئلة CSS</a></li>
 <li><a href='#user-content-أسئلة-js'>أسئلة JS</a></li>
@@ -20,16 +20,16 @@
 <li><a href='#user-content-أسئلة-برمجة'>أسئلة برمجة</a></li>
 <li><a href='#user-content-أسئلة-مسلية'>أسئلة مسلية</a></li>
 </ol>
-<h2>الدخول و المساهمه</h2>
+<h2>الدخول و المساهمة</h2>
 <ol>
 <li><a href='#user-content-المساهمون'>المساهمون</a></li>
 <li><a href='https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/CONTRIBUTING.md'>كيف تساهم</a></li>
 <li><a href='https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/LICENSE.md'>الرخصة</a></li>
 </ol>
-<h3>أسئلة عامه:</h3>
+<h3>أسئلة عامة:</h3>
 <ul>
 <li>ماذا تعلمت بالأمس/هذا الأسبوع؟</li>
-<li>ماذا يهمك ويثير اهتمامك في البرمجه؟</li>
+<li>ماذا يهمك ويثير اهتمامك في البرمجة؟</li>
 <li>ماهو اخر تحدي تقني واجهته ,و كيف استطعت إصلاحه؟</li>
 <li>اي من واجهة المستخدم, الامان, الاداء, قابلية الصيانه, SEO, او اي تقنية تضعها في الحسبان عند بناء تطبيق ويب او موقع؟</li>
 <li>تكلم عن بيئة التطوير المفضلة لديك.</li>
@@ -47,7 +47,7 @@
 <li>اشرح اهمية standards و standards bodies.</li>
 <li>ماهو Flash of Unstyled Content ؟وكيف تتفاداه</li>
 <li>اشرح ما هو ARIA  و screenreaders, وكيف تنشئ موقع accessible؟</li>
-<li>اشرح الإجابيات و السلبيات CSS animations مقابل JavaScript  animations.</li>
+<li>اشرح الإيجابيات و السلبيات CSS animations مقابل JavaScript  animations.</li>
 <li>ماذا CORS يرمز الى ,و ماهي المشكلة التي يعالجها؟</li>
 </ul>
 <h3>أسئلة HTML:</h3>
@@ -59,7 +59,7 @@
 <li>كيف تستضيف صفحه بمحتوى متعدد اللغات؟</li>
 <li>ماهي الاشياء التي يجب ان تحترس منها عند تصميم او تطور موقع متعدد اللغات؟</li>
 <li>ماهي فائدة <code>-data</code>؟</li>
-<li>اعتبر HTML5  منصة مفتوحة على شبكة الإنترنت ماهي اسس بناء HTML5؟</li>
+<li>اعتبر HTML5  منصة مفتوحة على شبكة الإنترنت ماهي أسس بناء HTML5؟</li>
 <li>اشرح الفرق بين <code>cookie</code>, <code>sessionStorage</code> و <code>localStorage</code>.</li>
 <li>اشرح الفرق بين <code>&lt;script&gt;</code>, <code>&lt;script async&gt;</code> و <code>&lt;script defer&gt;</code>.</li>
 <li>لماذا من الأفضل وضع سي اس اس  <code>&lt;link&gt;</code> بين <code>&lt;head&gt;&lt;/head&gt;</code> و جافاسكربت <code>&lt;script&gt;</code> قبل <code>&lt;body/&gt;</code>؟</li>
@@ -70,9 +70,9 @@
 <ul>
 <li>ما الفرق بين class و id في CSS؟</li>
 <li>ما الفرق بين "resetting" و "normalizing" في CSS؟ واي منهم ستختار, ولماذا؟</li>
-<li>اشرح Floats و كيف تعمل؟</li>
-<li>اشرح z-index و كيف stacking context شُكلت؟</li>
-<li>اشرح (BFC(Block Formatting Context و كيف تعمل؟</li>
+<li>اشرح Floats. و كيف تعمل؟</li>
+<li>اشرح z-index. و كيف stacking context شُكلت؟</li>
+<li>اشرح (BFC(Block Formatting Context. و كيف تعمل؟</li>
 <li>ماهي clearing techniques المختلفه و اي منها مناسب لأي سياق؟</li>
 <li>اشرح CSS sprites, وكيف سوف تنفذعم في صفحه او موقع.</li>
 <li>ما هي طرق تبديل الصور "image replacement" المفضلة لديك و متى تسخدم اي منها؟</li>
@@ -100,7 +100,7 @@
 <li>ما هو الفرق بين inline و inline-block؟</li>
 <li>ماهو الفرق بين قيم relative, fixed, absolute و statically في خاصية position؟</li>
 <li>الحرف "C" في CSS يرمز الى Cascading. كيف تحدد الافضلية في تعيين التصميم , وكيف لك ان تستفيد من هذه الخاصية؟</li>
-<li>اي من اطارات عمل CSS استخدمت في الانتاج او على محليا في جهازك, زكيف لك تغير/تطورهم؟</li>
+<li>اي من إطارات عمل CSS استخدمت في الانتاج او على محليا في جهازك, زكيف لك تغير/تطورهم؟</li>
 <li>هل جربت او استعملت قليلا CSS Flexbox او Grid؟</li>
 <li>كيف يكون responsive design مختلف عن adaptive design</li>
 <li>هل عملت من قبل مع retina graphics, ولو كان كذلك متى و ماهي الطرق التي استعملتها؟</li>
