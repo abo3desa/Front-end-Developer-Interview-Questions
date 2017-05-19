@@ -142,7 +142,7 @@
 <li>لماذا extending built-in JavaScript objects فكرة سيئة؟</li>
 <li>ما هو الفرق بين document load event و document DOMContentLoaded event؟</li>
 <li>ما هو الفرق بين <code>==</code> و <code>===</code>؟</li>
-<li>اشرح سياسة same-origin فيما يتعلق بجافاسكربت</li>
+<li>اشرح سياسة same-origin فيما يتعلق بجافاسكربت.</li>
 <li>اجعل هذا يعمل:</li>
 </ul>
 </div>
@@ -154,11 +154,11 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 <div dir='rtl'>
 <ul>
 <li>لماذا "Ternary" سميت هكذا ,و ماذا تشير كلمة Ternary expression الى؟</li>
+<li>ماهو <code>;"use strict"</code>, وما هي اجبايات و سلبيات استخدامه؟</li>
 <li></li>
 <li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>لماذا من الممكن تستخدم شي مثل <code>load</code> event, وهل هذا الـevent يملك سلبيات؟ وهل تعرف بدائل.و لماذا من الممكن ان تستخدمهم</li>
+<li>اشرح ما هو single page app و كيفية صنع SEO-friendly.</li>
 <li>ما مدى خبرتك في استعمال Promises و/او polyfills خاصتهم؟</li>
 <li>ماهي بعض المزايا و العيوب في استخدام Promises  بدلا من callbacks؟</li>
 <li>ماهي بعض الاجابيات و السلبيات في كتابتة جافاسكرت كود في لغة يحدث لها compiles الى جافاسكربت؟</li>
