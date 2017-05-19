@@ -112,7 +112,7 @@
 <li>اشرح كيف <code>this</code> تعمل في JavaScript</li>
 <li>اشرح كيف تعمل prototypal inheritance</li>
 <li>ما رأيك في AMD vs CommonJS؟</li>
-<li>اشرح لماذا التالي <code>;(){ }{}function foo</code> لا يعمل كا IIFE?</li>
+<li>اشرح لماذا التالي <code>;(){ }{}function foo</code> لا يعمل كـ IIFE?</li>
 <ul>
 <li>ما الذي يحتاج لتصحيح لجعله IIFE بصوره صحيحه؟</li>
 </ul>
@@ -120,15 +120,15 @@
 <ul>
 <li>ما الذي ستفعله لتتحقق من أي من هذه الحالات؟</li>
 </ul>
-<li>ما هو closure وكيف/لماذا تستخدمه؟</li>
-<li>ما هي حالة الاستخدام النموذجي لـ anonymous functions؟</li>
-<li>كيف تنظم برمجياتك؟ (module pattern, classical inheritance?)</li>
+<li>ما هو closure وكيف/لماذا ستستخدم واحدًا؟</li>
+<li>ما هي حالة الاستخدام الاعتيادية لـ anonymous functions؟</li>
+<li>كيف تنظم برمجياتك؟ (module pattern, classical inheritance)؟</li>
 <li>ما الفرق بين host objects و native objects؟</li>
-<li>القرق بين <code>function Person(){}</code>, <code>var person = Person()</code>,و <code>var person = new Person()</code>؟   </li>
-<li>ما الفرق بين  <code>.call</code>و <code>.apply</code>؟  </li>
-<li>اشرح <code>Function.prototype.bind</code>. </li>
-<li>متى تستخدم <code>document.write()</code>؟ </li>
-<li>ما الفرق بين feature detection, feature inference , واستخدام الـ UA string ؟</li>
+<li>القرق بين <code>{} ()function Person</code>, <code>()var person = Person</code>,و <code>()var person = new Person</code>؟</li>
+<li>ما الفرق بين  <code>call.</code>و <code>apply.</code>؟</li>
+<li>اشرح <code>Function.prototype.bind</code>.</li>
+<li>متى تستخدم <code>()document.write</code>؟</li>
+<li>ما الفرق بين feature detection, feature inference , واستخدام الـ UA string؟</li>
 <li>اشرح Ajax في اكبرقدر من التفاصيل .</li>
 <li>ما هي المزايا والعيوب في استخدام Ajax ؟</li>
 <li>اشرح كيف JSONP  يعمل (وكيف أنها ليست حقا Ajax ).</li>
