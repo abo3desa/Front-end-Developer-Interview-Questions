@@ -10,7 +10,7 @@
 </p>
 <h2>قائمة المحتوى</h2>
 <ol>
-<li><a href='#user-content-أسئلة-عامه'>أسئلة عامة</a></li>
+<li><a href='#user-content-أسئلة-عامة'>أسئلة عامة</a></li>
 <li><a href='#user-content-أسئلة-html'>أسئلة HTML</a></li>
 <li><a href='#user-content-أسئلة-css'>أسئلة CSS</a></li>
 <li><a href='#user-content-أسئلة-js'>أسئلة JS</a></li>
