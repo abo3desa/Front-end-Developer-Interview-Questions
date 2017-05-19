@@ -112,7 +112,7 @@
 <li>اشرح كيف <code>this</code> تعمل في JavaScript</li>
 <li>اشرح كيف تعمل prototypal inheritance</li>
 <li>ما رأيك في AMD vs CommonJS؟</li>
-<li>اشرح لماذا التالي <code>;(){ }{}function foo</code> لا يعمل كـ IIFE?</li>
+<li>اشرح لماذا التالي <code>;(){ }{}function foo</code> لا يعمل كـ IIFE؟</li>
 <ul>
 <li>ما الذي يحتاج لتصحيح لجعله IIFE بصوره صحيحه؟</li>
 </ul>
@@ -124,25 +124,36 @@
 <li>ما هي حالة الاستخدام الاعتيادية لـ anonymous functions؟</li>
 <li>كيف تنظم برمجياتك؟ (module pattern, classical inheritance)؟</li>
 <li>ما الفرق بين host objects و native objects؟</li>
-<li>القرق بين <code>{} ()function Person</code> و <code>()var person = Person</code> و <code>()var person = new Person</code>؟</li>
+<li>القرق بين <code>{} ()function Person</code>, <code>()var person = Person</code>,و <code>()var person = new Person</code>؟</li>
 <li>ما الفرق بين  <code>call.</code>و <code>apply.</code>؟</li>
 <li>اشرح <code>Function.prototype.bind</code>.</li>
 <li>متى تستخدم <code>()document.write</code>؟</li>
 <li>ما الفرق بين feature detection, feature inference , واستخدام الـ UA string؟</li>
-<li>اشرح Ajax في اكبرقدر من التفاصيل .</li>
+<li>اشرح Ajax في اكبر قدر من التفاصيل .</li>
 <li>ما هي المزايا والعيوب في استخدام Ajax ؟</li>
 <li>اشرح كيف JSONP  يعمل (وكيف أنها ليست حقا Ajax ).</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>هل سبق لك استخدام JavaScript templating؟</li>
+<ul>
+<li>لو كان كذلك اي مكتبه استخدمت؟</li>
+</ul>
+<li>اشرح "hoisting".</li>
+<li>اوصف event bubbling.</li>
+<li>ما الفرق بين "attribute" و "property"؟</li>
+<li>لماذا extending built-in JavaScript objects فكرة سيئة؟</li>
+<li>ما هو الفرق بين document load event و document DOMContentLoaded event؟</li>
+<li>ما هو الفرق بين <code>==</code> و <code>===</code>؟</li>
+<li>اشرح سياسة same-origin فيما يتعلق بجافاسكربت</li>
+<li>اجعل هذا يعمل:</li>
+</ul>
+</div>
+
+```javascript
+duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
+```
+
+<div dir='rtl'>
+<ul>
+<li>لماذا "Ternary" سميت هكذا ,و ماذا تشير كلمة Ternary expression الى؟</li>
 <li></li>
 <li></li>
 <li></li>
