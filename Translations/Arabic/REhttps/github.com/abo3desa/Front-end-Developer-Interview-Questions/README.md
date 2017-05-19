@@ -15,7 +15,7 @@
 <li><a href='#user-content-أسئلة-css'>أسئلة CSS</a></li>
 <li><a href='#user-content-أسئلة-js'>أسئلة JS</a></li>
 <li><a href='#user-content-أسئلة-اختبار-البرمجيات-testing'>أسئلة اختبار البرمجيات Testing</a></li>
-<li><a href='#user-content-أسئلة-اداء-البرمجيات-performance'>أسئلة اداء البرمجيات Performance</a></li>
+<li><a href='#user-content-أسئلة-أداء-البرمجيات-performance'>أسئلة أداء البرمجيات Performance</a></li>
 <li><a href='#user-content-أسئلة-شبكات-network'>أسئلة شبكات Network</a></li>
 <li><a href='#user-content-أسئلة-برمجة'>أسئلة برمجة</a></li>
 <li><a href='#user-content-أسئلة-مسلية'>أسئلة مسلية</a></li>
@@ -87,24 +87,24 @@
 <li>هل انت معتاد مع تصميم SVG؟</li>
 <li>كيف تحسن صفحاتك لطٌباعة؟</li>
 <li>ماهي بعض المعوقات في كتابة CSS جيد؟</li>
-<li>ماهي الاجابيات/السلبيات في استخدام CSS preprocessors؟</li>
+<li>ماهي الايجابيات/السلبيات في استخدام CSS preprocessors؟</li>
 <ul>
 <li>اوصف ماذا يعجبك وما لايعجبك حول استخدام CSS preprocessors؟</li>
 </ul>
-<li>كيف كيف لك تنفيذ web design comp بستخدام خطوط ليست اساسية؟</li>
-<li>اشرح كيف يتسطيع المتصفح تحديد اي عنصر ينتمي الى اي CSS selector.</li>
+<li>كيف كيف لك تنفيذ web design comp باستخدام خطوط ليست أساسية؟</li>
+<li>اشرح كيف يتسطيع المتصفح تحديد أي عنصر ينتمي إلى أي CSS selector.</li>
 <li>اوصف pseudo-elements و ناقش في ماذا يستخدمون؟</li>
-<li>اشرح ماهو box model و كيف ستخبر المتصفح تنسيق في box models مختلفة بستخدام CSS.</li>
-<li>ماذا <code>{ ;box-sizing: border-box } *</code> يفعل, وماهي اجابياته؟</li>
+<li>اشرح ماهو box model و كيف ستخبر المتصفح تنسيق في box models مختلفة باستخدام CSS.</li>
+<li>ماذا <code>{ ;box-sizing: border-box } *</code> يفعل, وماهي ايجابياته؟</li>
 <li>عدد كل قيم خاصية display التي تتذكرها.</li>
 <li>ما هو الفرق بين inline و inline-block؟</li>
 <li>ماهو الفرق بين قيم relative, fixed, absolute و statically في خاصية position؟</li>
-<li>الحرف "C" في CSS يرمز الى Cascading. كيف تحدد الافضلية في تعيين التصميم , وكيف لك ان تستفيد من هذه الخاصية؟</li>
-<li>اي من إطارات عمل CSS استخدمت في الانتاج او على محليا في جهازك, زكيف لك تغير/تطورهم؟</li>
+<li>الحرف "C" في CSS يرمز الى Cascading. كيف تحدد الافضلية في تعيين التصميم , وكيف لك أن تستفيد من هذه الخاصية؟</li>
+<li>أي من إطارات العمل CSS استخدمت في الانتاج أو محليا على جهازك, وكيف لك تغييرهم/تطورهم؟</li>
 <li>هل جربت او استعملت قليلا CSS Flexbox او Grid؟</li>
-<li>كيف يكون responsive design مختلف عن adaptive design</li>
+<li>كيف يكون responsive design مختلفا عن adaptive design</li>
 <li>هل عملت من قبل مع retina graphics, ولو كان كذلك متى و ماهي الطرق التي استعملتها؟</li>
-<li>هل هناك سبب  يجعلك من الممكن ان تستعمل <code>()translate</code> بدلا من absolute positioning او vice-versa؟ ولماذا.</li>
+<li>هل هناك سبب  يجعلك من الممكن أن تستعمل <code>()translate</code> بدلا من absolute positioning او vice-versa؟ ولماذا.</li>
 </ul>
 <h3>أسئلة JS:</h3>
 <ul>
@@ -114,7 +114,7 @@
 <li>ما رأيك في AMD vs CommonJS؟</li>
 <li>اشرح لماذا التالي <code>;(){ }{}function foo</code> لا يعمل كـ IIFE؟</li>
 <ul>
-<li>ما الذي يحتاج لتصحيح لجعله IIFE بصوره صحيحه؟</li>
+<li>ما الذي يحتاجه من تصحيح لجعل IIFE بصوره صحيحة؟</li>
 </ul>
 <li>ما الفرق بين المتغيرات: null, undefined، undeclared؟</li>
 <ul>
@@ -129,12 +129,12 @@
 <li>اشرح <code>Function.prototype.bind</code>.</li>
 <li>متى تستخدم <code>()document.write</code>؟</li>
 <li>ما الفرق بين feature detection, feature inference , واستخدام الـ UA string؟</li>
-<li>اشرح Ajax في اكبر قدر من التفاصيل .</li>
+<li>اشرح Ajax في أكبر قدر من التفاصيل .</li>
 <li>ما هي المزايا والعيوب في استخدام Ajax ؟</li>
 <li>اشرح كيف JSONP  يعمل (وكيف أنها ليست حقا Ajax ).</li>
 <li>هل سبق لك استخدام JavaScript templating؟</li>
 <ul>
-<li>لو كان كذلك اي مكتبه استخدمت؟</li>
+<li>لو كان كذلك أي مكتبة استخدمت؟</li>
 </ul>
 <li>اشرح "hoisting".</li>
 <li>اوصف event bubbling.</li>
@@ -153,23 +153,23 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 
 <div dir='rtl'>
 <ul>
-<li>لماذا "Ternary" سميت هكذا ,و ماذا تشير كلمة Ternary expression الى؟</li>
-<li>ماهو <code>;"use strict"</code>, وما هي اجبايات و سلبيات استخدامه؟</li>
+<li>لماذا "Ternary" سميت هكذا ,و ماذا تشير كلمة Ternary expression إلى؟</li>
+<li>ماهو <code>;"use strict"</code>, وما هي إبجبايات و سلبيات استخدامه؟</li>
 <li>اكتب for loop تكرر حتى 100 و تطبع "fizz" في مضاعفات 3 , و "buzz" في مضاعفات 5 و "fizzbuzz" في مضاعفات 5 و3.</li>
-<li>لماذا بشكل عام ترك global scope للموقع كما هو و عدم لمسه فكره جيده</li>
+<li>لماذا بشكل عام ترك global scope للموقع كما هو و عدم لمسه فكرة جيدة</li>
 <li>لماذا من الممكن تستخدم شي مثل load event, وهل هذا الـevent يملك سلبيات؟ وهل تعرف بدائل.و لماذا من الممكن ان تستخدمهم</li>
 <li>اشرح ما هو single page app و كيفية صنع SEO-friendly.</li>
 <li>ما مدى خبرتك في استعمال Promises و/او polyfills خاصتهم؟</li>
 <li>ماهي بعض المزايا و العيوب في استخدام Promises  بدلا من callbacks؟</li>
-<li>ماهي بعض الاجابيات و السلبيات في كتابتة جافاسكرت كود في لغة يحدث لها compiles الى جافاسكربت؟</li>
-<li>ماهي الادوات و الطرق التي تستخدمها في البحث و التصحيح عن اخطاءك في الجافاسكربت كود؟</li>
+<li>ماهي بعض الاجابيات و السلبيات في كتابتة جافاسكرت كود في لغة يحدث لها compiles إلى جافاسكربت؟</li>
+<li>ماهي الادوات و الطرق التي تستخدمها في البحث و التصحيح عن أخطاءك في الجافاسكربت كود؟</li>
 <li>ماهي language constructions تستعمل لتكرار على خواص object و عناصر array؟</li>
 <ul>
 <li>اشرح الفرق بين mutable و immutable objects.</li>
 </ul>
 <ul>
 <li>ماذا يعتبر في الجافاسكربت لـ immutable object؟</li>
-<li>ماهي الاجابيات و السلبيات الـ immutability؟</li>
+<li>ماهي الايجابيات و السلبيات الـ immutability؟</li>
 <li>كيف يمكنك تحقيق immutability في الكود الخاص بك؟</li>
 </ul>
 <li>اشرح الفرق بين synchronous و asynchronous functions.</li>
@@ -186,15 +186,15 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 <li>ما الفرق بين اختبار unit واختبار functional/integration؟</li>
 <li>ما الغرض من code style linting tool؟</li>
 </ul>
-<h3>أسئلة اداء البرمجيات Performance:</h3>
+<h3>أسئلة أداء البرمجيات Performance:</h3>
 <ul>
 <li>ما الأدوات التي تستخدمها لإيجاد مشاكل في الأداء؟</li>
-<li>ما هي الطرق التي من الممكن تحسن أداء ال scrolling في موقعك؟</li>
+<li>ما هي الطرق التي من الممكن تحسن أداءالـ scrolling في موقعك؟</li>
 <li>اشرح الفرق بين layout و painting و compositing.</li>
 </ul>
 <h3>أسئلة شبكات Network:</h3>
 <ul>
-<li>في العادة لماذا من الأفضل ان ترفع site assets من domains متعدده؟</li>
+<li>في العادة لماذا من الأفضل أن ترفع site assets من domains متعدده؟</li>
 <li>افعل ما بوسعك لشرح ما يحدث من بداية كتابك عنوان الموقع الى انتهاء تحميله على شاشتك.</li>
 <li>ما الفرق بين Long-Polling و Websockets  و Server-Sent Events؟</li>
 <li>اشرح request and response headers التاليه:</li>
@@ -224,7 +224,7 @@ add(2, 5); // 7
 add(2)(5); // 7
 ```
 
-<p dir="rtl"><em>سؤال: ماهي القيمة العائده من الكود التالي؟</em></p>
+<p dir="rtl"><em>سؤال: ماهي القيمة العائدة من الكود التالي؟</em></p>
 
 ```javascript
 "i'm a lasagna hog".split("").reverse().join("");
@@ -236,7 +236,7 @@ add(2)(5); // 7
 ( window.foo || ( window.foo = "bar" ) );
 ```
 
-<p dir="rtl"><em>سؤال: ماهو ناتج التنبهات التاليه؟</em></p>
+<p dir="rtl"><em>سؤال: ماهو ناتج التنبيهات التالية؟</em></p>
 
 ```javascript
 var foo = "Hello";
@@ -277,7 +277,7 @@ console.log('three');
 <h3>أسئلة مسلية:</h3>
 <ul>
 <li>ماذا عملت من مشروع رائع مؤخرا؟</li>
-<li>ما هي الاشياء التي اعجبتك في ادوات التطوير التي تستعملها؟</li>
+<li>ما هي الاشياء التي أعجبتك في أدوات التطوير التي تستعملها؟</li>
 <li>من الذي يلهمك في مجتمع تطوير واجهة الويب؟</li>
 <li>هل لديك اي من المشاريع الصغيرة؟ ما نوعها؟</li>
 <li>ما هي الميزة المفضلة لديك في Internet Explorer؟</li>
