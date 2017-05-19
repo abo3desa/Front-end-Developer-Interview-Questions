@@ -70,11 +70,11 @@
 <ul>
 <li>ما الفرق بين class و id في CSS؟</li>
 <li>ما الفرق بين "resetting" و "normalizing" في CSS؟ واي منهم ستختار, ولماذا؟</li>
-<li>اشرح Floats. و كيف تعمل؟</li>
-<li>اشرح z-index. و كيف stacking context شُكلت؟</li>
-<li>اشرح (BFC(Block Formatting Context. و كيف تعمل؟</li>
+<li>اشرح Floats, و كيف تعمل؟</li>
+<li>اشرح z-index, و كيف stacking context شُكلت؟</li>
+<li>اشرح (BFC(Block Formatting Context, و كيف تعمل؟</li>
 <li>ماهي clearing techniques المختلفه و اي منها مناسب لأي سياق؟</li>
-<li>اشرح CSS sprites, وكيف سوف تنفذعم في صفحه او موقع.</li>
+<li>اشرح CSS sprites, وكيف سوف تنفذعم في صفحه او موقع؟</li>
 <li>ما هي طرق تبديل الصور "image replacement" المفضلة لديك و متى تسخدم اي منها؟</li>
 <li>كيف تصلح مشكلة تنسيق في متصفح معين؟</li>
 <li>كيف تجعل صفحاتك تعمل على متصفحات مقيدة بالميزات "قديمة"؟</li>
@@ -92,7 +92,7 @@
 <li>اوصف ماذا يعجبك وما لايعجبك حول استخدام CSS preprocessors؟</li>
 </ul>
 <li>كيف كيف لك تنفيذ web design comp بستخدام خطوط ليست اساسية؟</li>
-<li>اشرح كيف يتسطيع المتصفح تحديد اي عنصر ينتمي الى اي CSS selector؟</li>
+<li>اشرح كيف يتسطيع المتصفح تحديد اي عنصر ينتمي الى اي CSS selector.</li>
 <li>اوصف pseudo-elements و ناقش في ماذا يستخدمون؟</li>
 <li>اشرح ماهو box model و كيف ستخبر المتصفح تنسيق في box models مختلفة بستخدام CSS.</li>
 <li>ماذا <code>{ ;box-sizing: border-box } *</code> يفعل, وماهي اجابياته؟</li>
@@ -108,9 +108,9 @@
 </ul>
 <h3>أسئلة JS:</h3>
 <ul>
-<li>اشرح event delegation</li>
-<li>اشرح كيف <code>this</code> تعمل في JavaScript</li>
-<li>اشرح كيف تعمل prototypal inheritance</li>
+<li>اشرح event delegation.</li>
+<li>اشرح كيف <code>this</code> تعمل في JavaScript.</li>
+<li>اشرح كيف تعمل prototypal inheritance.</li>
 <li>ما رأيك في AMD vs CommonJS؟</li>
 <li>اشرح لماذا التالي <code>;(){ }{}function foo</code> لا يعمل كـ IIFE؟</li>
 <ul>
@@ -175,9 +175,9 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 <li>اشرح الفرق بين synchronous و asynchronous functions.</li>
 <li>ماهو event loop؟</li>
 <ul>
-<li>ما هو الفرق بين call stack و task queue</li>
+<li>ما هو الفرق بين call stack و task queue؟</li>
 </ul>
-<li>اشرح الفرق في استخدام  <code>foo</code> بين <code>{} ()function foo</code> و  <code>{} ()var foo = function</code></li>
+<li>اشرح الفرق في استخدام  <code>foo</code> بين <code>{} ()function foo</code> و  <code>{} ()var foo = function</code>.</li>
 </ul>
 <h3>أسئلة اختبار البرمجيات Testing:</h3>
 <ul>
@@ -190,7 +190,7 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 <ul>
 <li>ما الأدوات التي تستخدمها لإيجاد مشاكل في الأداء؟</li>
 <li>ما هي الطرق التي من الممكن تحسن أداء ال scrolling في موقعك؟</li>
-<li>اشرح الفرق بين layout وpainting وcompositing؟</li>
+<li>اشرح الفرق بين layout وpainting وcompositing.</li>
 </ul>
 <h3>أسئلة شبكات Network:</h3>
 <ul>
