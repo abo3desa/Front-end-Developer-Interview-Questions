@@ -190,7 +190,7 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 <ul>
 <li>ما الأدوات التي تستخدمها لإيجاد مشاكل في الأداء؟</li>
 <li>ما هي الطرق التي من الممكن تحسن أداء ال scrolling في موقعك؟</li>
-<li>اشرح الفرق بين layout وpainting وcompositing.</li>
+<li>اشرح الفرق بين layout و painting و compositing.</li>
 </ul>
 <h3>أسئلة شبكات Network:</h3>
 <ul>
