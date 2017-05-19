@@ -124,7 +124,7 @@
 <li>ما هي حالة الاستخدام الاعتيادية لـ anonymous functions؟</li>
 <li>كيف تنظم برمجياتك؟ (module pattern, classical inheritance)؟</li>
 <li>ما الفرق بين host objects و native objects؟</li>
-<li>القرق بين <code>{} ()function Person</code>, <code>()var person = Person</code>,و <code>()var person = new Person</code>؟</li>
+<li>القرق بين <code>{} ()function Person</code> و <code>()var person = Person</code> و <code>()var person = new Person</code>؟</li>
 <li>ما الفرق بين  <code>call.</code>و <code>apply.</code>؟</li>
 <li>اشرح <code>Function.prototype.bind</code>.</li>
 <li>متى تستخدم <code>()document.write</code>؟</li>
